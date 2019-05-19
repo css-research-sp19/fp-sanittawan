@@ -1,0 +1,3 @@
+BMR-PolRegimes.pdf (application/pdf) 548235 bytes.
+democracy-v3.0.csv (text/csv) 753376 bytes.
+Codebook-BMRv3.0.pdf (application/pdf) 78558 bytes.

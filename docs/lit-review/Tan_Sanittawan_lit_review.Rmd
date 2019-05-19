@@ -1,0 +1,34 @@
+---
+title: "Literature Review"
+author: "Sanittawan Tan"
+date: "4/28/2019"
+output:
+  pdf_document: default
+  html_document: default
+header-includes: \usepackage{setspace}\doublespacing
+fontsize: 12pt
+---
+
+## Disentangling Democratic Backsliding and Democratic Breakdown
+
+
+This article mainly speaks to research on regime change in comparative politics. This section takes readers through a brief review of the concept of democratic backsliding, differentiates it from conventional regime breakdown, and explores several explanations of possible associations or even causal mechanisms that lead to democratic backsliding.
+
+**What is democratic backsliding?**
+
+Democratic backsliding is a rather new concept that is emerging in regime change literature in comparative politics. In their annual review article, Waldner and Lust (2018) define it as “[Democratic] [b]acksliding entails a deterioration of qualities associated with democratic governance, within any regime.” They focus on backsliding within democracies and argue that backsliding occurs through “a discontinuous series of incremental actions.” Bermeo (2016) offers a similar definition: “the state-led debilitation or elimination of any of the political institutions that sustain an existing democracy.” These two definitions clearly highlight a slow and incremental process that constitute backsliding, rather than an abrupt breakdown or a regime change.
+However, another distinct characteristic of democratic backsliding is that in many cases the means to weaken or eliminate democratic institutions are perfectly legal. Bermeo (2016) points to at least two means. First, democratic institutions are deliberately weakened by the executive branch, a process she coins “executive aggrandizement.” One outstanding example is Turkey under Recep Tayyip Erdogan. Erdogan gradually undermined the checks and balance of the Constitutional Court by securing the ability to appoint 14 out of 17 Constitutional Court judges. His government revised laws to allow criminal prosecution of journalists and created a series of defamation laws in an attempt to silence critics (p. 10-11). 
+Second, elections are strategically manipulated much in advance. Bermeo argues that manipulations include suppressing media access, preventing opposition candidates from running an election, and changing electoral rules to favor the incumbent government (p. 13).
+This article agrees with the definition of democratic backsliding provided by Waldner and Lust. Thus, countries that can experience democratic erosion has to be a democracy in the first place and they have to show signs of backsliding through one of the means that Bermeo mentions. What then constitutes a democracy? For the ease of operationalization, I will use Przeworski et al.’s (2000, 28-29) coding rules. A country is considered an autocracy or authoritarian if at least one of the following conditions is true:
+
+* The chief executive is not elected.
+* The legislature is not elected.
+* There is no more than one party.
+* We have yet to observe lawful alternation. This applies only to countries that none of the first three rules apply. There are some cases where one party has ruled for an extended period of time. There are elections, but one party has not lost an election.
+
+The next section briefly distinguishes between democratic backsliding and democratic breakdown. 
+
+**Democratic backsliding and democratic breakdown**
+
+Where do scholars draw the line between democratic backsliding and democratic breakdown? The answer is still being contested but for a good reason. Democratic backsliding is more difficult to detect and classify because it slowly occurs. Democratic breakdown, on the other hand, is easier to witness since it involves an abrupt regime change. One of the traditional ways that democracy breaks down is via coup d’etat. There are three major schools of thought that explain democratic breakdown. The first is the elite-driven models which include those who argued that transitions are a result of intra-elite conflicts. The second is the redistributive models of democracy (e.g. Acemoglu and Robinson, 2001, 2009). The final explanation emphasizes the role of international factors in aiding/hindering democratic transitions (e.g. Poast and Urpenlainen 2015). Bermeo (2016) argues that a regime change through “promissory coups,” which occurs when the military stages a coup d’etat, promises to hold an election and restores democracy as soon as possible, is a variety of democratic backsliding. I argue that promissory coups more closely resembles traditional democratic breakdown since there is a notable disruption in the regime. Hence, this paper only treats cases where there is a gradual attempt to weaken checks and balance, accountability, and participation as democratic backsliding.
+
