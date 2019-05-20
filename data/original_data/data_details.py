@@ -1,9 +1,9 @@
 ## FH
-country = [
+country_FH = [
 
 ]
 ## BMR
-country = [
+country_BMR = [
 'united states', 'canada', 'bahamas', 'cuba', 'haiti',
 'dominican republic', 'jamaica', 'trinidad & tobago', 'barbados',
 'dominica', 'grenada', 'st. lucia', 'st. vincent & gren.',
@@ -43,4 +43,45 @@ country = [
 'new zealand', 'vanuatu', 'solomon islands', 'kiribati', 'tuvalu',
 'fiji', 'tonga', 'nauru', 'marshall islands', 'palau',
 'micronesia, fed.', 'samoa (western)'
+]
+
+## VDEM
+country_VDEM = [
+'afghanistan', 'angola', 'albania', 'united arab emirates',
+       'argentina', 'armenia', 'australia', 'austria', 'azerbaijan',
+       'burundi', 'belgium', 'benin', 'burkina faso', 'bangladesh',
+       'bulgaria', 'bahrain', 'bosnia and herzegovina', 'belarus',
+       'bolivia', 'brazil', 'barbados', 'bhutan', 'botswana',
+       'central african republic', 'canada', 'switzerland', 'chile',
+       'china', 'ivory coast', 'cameroon',
+       'democratic republic of the congo', 'republic of the congo',
+       'colombia', 'comoros', 'cape verde', 'costa rica', 'cuba',
+       'cyprus', 'czech republic', 'germany', 'djibouti', 'denmark',
+       'dominican republic', 'algeria', 'ecuador', 'egypt', 'eritrea',
+       'spain', 'estonia', 'ethiopia', 'finland', 'fiji', 'france',
+       'gabon', 'united kingdom', 'georgia', 'ghana', 'guinea',
+       'the gambia', 'guinea-bissau', 'equatorial guinea', 'greece',
+       'guatemala', 'guyana', 'hong kong', 'honduras', 'croatia', 'haiti',
+       'hungary', 'indonesia', 'india', 'ireland', 'iran', 'iraq',
+       'iceland', 'israel', 'italy', 'jamaica', 'jordan', 'japan',
+       'kazakhstan', 'kenya', 'kyrgyzstan', 'cambodia', 'south korea',
+       'kuwait', 'laos', 'lebanon', 'liberia', 'libya', 'sri lanka',
+       'lesotho', 'lithuania', 'luxembourg', 'latvia', 'morocco',
+       'moldova', 'madagascar', 'maldives', 'mexico', 'macedonia', 'mali',
+       'malta', 'burma/myanmar', 'montenegro', 'mongolia', 'mozambique',
+       'mauritania', 'mauritius', 'malawi', 'malaysia', 'namibia',
+       'niger', 'nigeria', 'nicaragua', 'netherlands', 'norway', 'nepal',
+       'new zealand', 'oman', 'pakistan', 'panama', 'peru', 'philippines',
+       'papua new guinea', 'poland', 'north korea', 'portugal',
+       'paraguay', 'palestine/west bank', 'palestine/gaza', 'qatar',
+       'romania', 'russia', 'rwanda', 'saudi arabia', 'sudan', 'senegal',
+       'singapore', 'solomon islands', 'sierra leone', 'el salvador',
+       'somaliland', 'somalia', 'serbia', 'south sudan',
+       'sao tome and principe', 'suriname', 'slovakia', 'slovenia',
+       'sweden', 'swaziland', 'seychelles', 'syria', 'chad', 'togo',
+       'thailand', 'tajikistan', 'turkmenistan', 'timor-leste',
+       'trinidad and tobago', 'tunisia', 'turkey', 'taiwan', 'tanzania',
+       'uganda', 'ukraine', 'uruguay', 'united states of america',
+       'uzbekistan', 'venezuela', 'vietnam', 'vanuatu', 'kosovo', 'yemen',
+       'south africa', 'zambia', 'zimbabwe', 'zanzibar'
 ]
