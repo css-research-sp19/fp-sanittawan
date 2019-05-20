@@ -1,0 +1,46 @@
+## FH
+country = [
+
+]
+## BMR
+country = [
+'united states', 'canada', 'bahamas', 'cuba', 'haiti',
+'dominican republic', 'jamaica', 'trinidad & tobago', 'barbados',
+'dominica', 'grenada', 'st. lucia', 'st. vincent & gren.',
+'antigua', 'st. kitts & nevis', 'mexico', 'belize', 'guatemala',
+'honduras', 'el salvador', 'nicaragua', 'costa rica', 'panama',
+'colombia', 'venezuela', 'guyana', 'suriname', 'ecuador', 'peru',
+'brazil', 'bolivia', 'paraguay', 'chile', 'argentina', 'uruguay',
+'united kingdom', 'ireland', 'netherlands', 'belgium',
+'luxembourg', 'france', 'monaco', 'liechstenstein', 'switzerland',
+'spain', 'andorra', 'portugal', 'germany', 'poland', 'austria',
+'hungary', 'czech republic', 'slovakia', 'italy', 'san marino',
+'malta', 'albania', 'kosovo', 'serbia', 'macedonia', 'croatia',
+'bosnia', 'montenegro', 'slovenia', 'greece', 'cyprus', 'bulgaria',
+'moldova', 'romania', 'russia', 'estonia', 'latvia', 'lithuania',
+'ukraine', 'belarus', 'armenia', 'georgia', 'azerbaijan',
+'finland', 'sweden', 'norway', 'denmark', 'iceland', 'cape verde',
+'sao tome & principe', 'guinea-bissau', 'equatorial guinea',
+'gambia', 'mali', 'senegal', 'benin', 'mauritania', 'niger',
+"cote d'ivoire", 'guinea', 'burkina faso', 'liberia',
+'sierra leone', 'ghana', 'togo', 'cameroon', 'nigeria', 'gabon',
+'central african rep.', 'chad', 'congo, rep.', 'congo, dem. rep.',
+'uganda', 'kenya', 'tanzania', 'burundi', 'rwanda', 'somalia',
+'djibouti', 'ethiopia', 'eritrea', 'angola', 'mozambique',
+'zambia', 'zimbabwe', 'malawi', 'south africa', 'namibia',
+'lesotho', 'botswana', 'swaziland', 'madagascar', 'comoros',
+'mauritius', 'seychelles', 'morocco', 'algeria', 'tunisia',
+'libya', 'sudan, north', 'sudan', 'sudan, south', 'iran', 'turkey',
+'iraq', 'egypt', 'syria', 'lebanon', 'jordan', 'israel',
+'saudi arabia', 'yemen', 'kuwait', 'bahrain', 'qatar',
+'united arab emirates', 'oman', 'afghanistan', 'turkmenistan',
+'tajikistan', 'kyrgyzstan', 'uzbekistan', 'kazakhstan', 'china',
+'mongolia', 'taiwan', 'korea, north', 'korea, south', 'japan',
+'india', 'bhutan', 'pakistan', 'bangladesh', 'myanmar',
+'sri lanka', 'maldives', 'nepal', 'thailand', 'cambodia', 'laos',
+'vietnam', 'malaysia', 'singapore', 'brunei', 'philippines',
+'indonesia', 'east timor', 'australia', 'papua new guinea',
+'new zealand', 'vanuatu', 'solomon islands', 'kiribati', 'tuvalu',
+'fiji', 'tonga', 'nauru', 'marshall islands', 'palau',
+'micronesia, fed.', 'samoa (western)'
+]
