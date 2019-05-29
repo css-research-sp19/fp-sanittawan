@@ -1,4 +1,7 @@
 country,year,PR,CL,Status,FH_category,FH_F,FH_NF,FH_PF
+afghanistan,2005,5,5,PF,1,0,0,1
+afghanistan,2006,5,5,PF,1,0,0,1
+afghanistan,2007,5,5,PF,1,0,0,1
 afghanistan,2008,5,6,NF,0,0,1,0
 afghanistan,2009,6,6,NF,0,0,1,0
 afghanistan,2010,6,6,NF,0,0,1,0
@@ -9,6 +12,9 @@ afghanistan,2014,6,6,NF,0,0,1,0
 afghanistan,2015,6,6,NF,0,0,1,0
 afghanistan,2016,6,6,NF,0,0,1,0
 afghanistan,2017,5,6,NF,0,0,1,0
+albania,2005,3,3,PF,1,0,0,1
+albania,2006,3,3,PF,1,0,0,1
+albania,2007,3,3,PF,1,0,0,1
 albania,2008,3,3,PF,1,0,0,1
 albania,2009,3,3,PF,1,0,0,1
 albania,2010,3,3,PF,1,0,0,1
@@ -19,6 +25,9 @@ albania,2014,3,3,PF,1,0,0,1
 albania,2015,3,3,PF,1,0,0,1
 albania,2016,3,3,PF,1,0,0,1
 albania,2017,3,3,PF,1,0,0,1
+algeria,2005,6,5,NF,0,0,1,0
+algeria,2006,6,5,NF,0,0,1,0
+algeria,2007,6,5,NF,0,0,1,0
 algeria,2008,6,5,NF,0,0,1,0
 algeria,2009,6,5,NF,0,0,1,0
 algeria,2010,6,5,NF,0,0,1,0
@@ -29,6 +38,9 @@ algeria,2014,6,5,NF,0,0,1,0
 algeria,2015,6,5,NF,0,0,1,0
 algeria,2016,6,5,NF,0,0,1,0
 algeria,2017,6,5,NF,0,0,1,0
+andorra,2005,1,1,F,2,1,0,0
+andorra,2006,1,1,F,2,1,0,0
+andorra,2007,1,1,F,2,1,0,0
 andorra,2008,1,1,F,2,1,0,0
 andorra,2009,1,1,F,2,1,0,0
 andorra,2010,1,1,F,2,1,0,0
@@ -39,6 +51,9 @@ andorra,2014,1,1,F,2,1,0,0
 andorra,2015,1,1,F,2,1,0,0
 andorra,2016,1,1,F,2,1,0,0
 andorra,2017,1,1,F,2,1,0,0
+angola,2005,6,5,NF,0,0,1,0
+angola,2006,6,5,NF,0,0,1,0
+angola,2007,6,5,NF,0,0,1,0
 angola,2008,6,5,NF,0,0,1,0
 angola,2009,6,5,NF,0,0,1,0
 angola,2010,6,5,NF,0,0,1,0
@@ -49,6 +64,9 @@ angola,2014,6,5,NF,0,0,1,0
 angola,2015,6,6,NF,0,0,1,0
 angola,2016,6,6,NF,0,0,1,0
 angola,2017,6,6,NF,0,0,1,0
+antigua and barbuda,2005,2,2,F,2,1,0,0
+antigua and barbuda,2006,2,2,F,2,1,0,0
+antigua and barbuda,2007,2,2,F,2,1,0,0
 antigua and barbuda,2008,2,2,F,2,1,0,0
 antigua and barbuda,2009,3,2,F,2,1,0,0
 antigua and barbuda,2010,3,2,F,2,1,0,0
@@ -59,6 +77,9 @@ antigua and barbuda,2014,2,2,F,2,1,0,0
 antigua and barbuda,2015,2,2,F,2,1,0,0
 antigua and barbuda,2016,2,2,F,2,1,0,0
 antigua and barbuda,2017,2,2,F,2,1,0,0
+argentina,2005,2,2,F,2,1,0,0
+argentina,2006,2,2,F,2,1,0,0
+argentina,2007,2,2,F,2,1,0,0
 argentina,2008,2,2,F,2,1,0,0
 argentina,2009,2,2,F,2,1,0,0
 argentina,2010,2,2,F,2,1,0,0
@@ -69,6 +90,9 @@ argentina,2014,2,2,F,2,1,0,0
 argentina,2015,2,2,F,2,1,0,0
 argentina,2016,2,2,F,2,1,0,0
 argentina,2017,2,2,F,2,1,0,0
+armenia,2005,5,4,PF,1,0,0,1
+armenia,2006,5,4,PF,1,0,0,1
+armenia,2007,5,4,PF,1,0,0,1
 armenia,2008,6,4,PF,1,0,0,1
 armenia,2009,6,4,PF,1,0,0,1
 armenia,2010,6,4,PF,1,0,0,1
@@ -79,6 +103,9 @@ armenia,2014,5,4,PF,1,0,0,1
 armenia,2015,5,4,PF,1,0,0,1
 armenia,2016,5,4,PF,1,0,0,1
 armenia,2017,5,4,PF,1,0,0,1
+australia,2005,1,1,F,2,1,0,0
+australia,2006,1,1,F,2,1,0,0
+australia,2007,1,1,F,2,1,0,0
 australia,2008,1,1,F,2,1,0,0
 australia,2009,1,1,F,2,1,0,0
 australia,2010,1,1,F,2,1,0,0
@@ -89,6 +116,9 @@ australia,2014,1,1,F,2,1,0,0
 australia,2015,1,1,F,2,1,0,0
 australia,2016,1,1,F,2,1,0,0
 australia,2017,1,1,F,2,1,0,0
+austria,2005,1,1,F,2,1,0,0
+austria,2006,1,1,F,2,1,0,0
+austria,2007,1,1,F,2,1,0,0
 austria,2008,1,1,F,2,1,0,0
 austria,2009,1,1,F,2,1,0,0
 austria,2010,1,1,F,2,1,0,0
@@ -99,6 +129,9 @@ austria,2014,1,1,F,2,1,0,0
 austria,2015,1,1,F,2,1,0,0
 austria,2016,1,1,F,2,1,0,0
 austria,2017,1,1,F,2,1,0,0
+azerbaijan,2005,6,5,NF,0,0,1,0
+azerbaijan,2006,6,5,NF,0,0,1,0
+azerbaijan,2007,6,5,NF,0,0,1,0
 azerbaijan,2008,6,5,NF,0,0,1,0
 azerbaijan,2009,6,5,NF,0,0,1,0
 azerbaijan,2010,6,5,NF,0,0,1,0
@@ -109,6 +142,9 @@ azerbaijan,2014,6,6,NF,0,0,1,0
 azerbaijan,2015,7,6,NF,0,0,1,0
 azerbaijan,2016,7,6,NF,0,0,1,0
 azerbaijan,2017,7,6,NF,0,0,1,0
+bahamas,2005,1,1,F,2,1,0,0
+bahamas,2006,1,1,F,2,1,0,0
+bahamas,2007,1,1,F,2,1,0,0
 bahamas,2008,1,1,F,2,1,0,0
 bahamas,2009,1,1,F,2,1,0,0
 bahamas,2010,1,1,F,2,1,0,0
@@ -119,6 +155,9 @@ bahamas,2014,1,1,F,2,1,0,0
 bahamas,2015,1,1,F,2,1,0,0
 bahamas,2016,1,1,F,2,1,0,0
 bahamas,2017,1,1,F,2,1,0,0
+bahrain,2005,5,5,PF,1,0,0,1
+bahrain,2006,5,5,PF,1,0,0,1
+bahrain,2007,5,5,PF,1,0,0,1
 bahrain,2008,5,5,PF,1,0,0,1
 bahrain,2009,6,5,NF,0,0,1,0
 bahrain,2010,6,5,NF,0,0,1,0
@@ -129,6 +168,9 @@ bahrain,2014,7,6,NF,0,0,1,0
 bahrain,2015,7,6,NF,0,0,1,0
 bahrain,2016,7,6,NF,0,0,1,0
 bahrain,2017,7,6,NF,0,0,1,0
+bangladesh,2005,4,4,PF,1,0,0,1
+bangladesh,2006,4,4,PF,1,0,0,1
+bangladesh,2007,5,4,PF,1,0,0,1
 bangladesh,2008,4,4,PF,1,0,0,1
 bangladesh,2009,3,4,PF,1,0,0,1
 bangladesh,2010,3,4,PF,1,0,0,1
@@ -139,6 +181,9 @@ bangladesh,2014,4,4,PF,1,0,0,1
 bangladesh,2015,4,4,PF,1,0,0,1
 bangladesh,2016,4,4,PF,1,0,0,1
 bangladesh,2017,4,4,PF,1,0,0,1
+barbados,2005,1,1,F,2,1,0,0
+barbados,2006,1,1,F,2,1,0,0
+barbados,2007,1,1,F,2,1,0,0
 barbados,2008,1,1,F,2,1,0,0
 barbados,2009,1,1,F,2,1,0,0
 barbados,2010,1,1,F,2,1,0,0
@@ -149,6 +194,9 @@ barbados,2014,1,1,F,2,1,0,0
 barbados,2015,1,1,F,2,1,0,0
 barbados,2016,1,1,F,2,1,0,0
 barbados,2017,1,1,F,2,1,0,0
+belarus,2005,7,6,NF,0,0,1,0
+belarus,2006,7,6,NF,0,0,1,0
+belarus,2007,7,6,NF,0,0,1,0
 belarus,2008,7,6,NF,0,0,1,0
 belarus,2009,7,6,NF,0,0,1,0
 belarus,2010,7,6,NF,0,0,1,0
@@ -159,6 +207,9 @@ belarus,2014,7,6,NF,0,0,1,0
 belarus,2015,7,6,NF,0,0,1,0
 belarus,2016,7,6,NF,0,0,1,0
 belarus,2017,6,6,NF,0,0,1,0
+belgium,2005,1,1,F,2,1,0,0
+belgium,2006,1,1,F,2,1,0,0
+belgium,2007,1,1,F,2,1,0,0
 belgium,2008,1,1,F,2,1,0,0
 belgium,2009,1,1,F,2,1,0,0
 belgium,2010,1,1,F,2,1,0,0
@@ -169,6 +220,9 @@ belgium,2014,1,1,F,2,1,0,0
 belgium,2015,1,1,F,2,1,0,0
 belgium,2016,1,1,F,2,1,0,0
 belgium,2017,1,1,F,2,1,0,0
+belize,2005,1,2,F,2,1,0,0
+belize,2006,1,2,F,2,1,0,0
+belize,2007,1,2,F,2,1,0,0
 belize,2008,1,2,F,2,1,0,0
 belize,2009,1,2,F,2,1,0,0
 belize,2010,1,2,F,2,1,0,0
@@ -179,6 +233,9 @@ belize,2014,1,2,F,2,1,0,0
 belize,2015,1,2,F,2,1,0,0
 belize,2016,1,2,F,2,1,0,0
 belize,2017,1,2,F,2,1,0,0
+benin,2005,2,2,F,2,1,0,0
+benin,2006,2,2,F,2,1,0,0
+benin,2007,2,2,F,2,1,0,0
 benin,2008,2,2,F,2,1,0,0
 benin,2009,2,2,F,2,1,0,0
 benin,2010,2,2,F,2,1,0,0
@@ -189,6 +246,9 @@ benin,2014,2,2,F,2,1,0,0
 benin,2015,2,2,F,2,1,0,0
 benin,2016,2,2,F,2,1,0,0
 benin,2017,2,2,F,2,1,0,0
+bhutan,2005,6,5,NF,0,0,1,0
+bhutan,2006,6,5,NF,0,0,1,0
+bhutan,2007,6,5,NF,0,0,1,0
 bhutan,2008,4,5,PF,1,0,0,1
 bhutan,2009,4,5,PF,1,0,0,1
 bhutan,2010,4,5,PF,1,0,0,1
@@ -199,6 +259,9 @@ bhutan,2014,3,4,PF,1,0,0,1
 bhutan,2015,3,4,PF,1,0,0,1
 bhutan,2016,3,4,PF,1,0,0,1
 bhutan,2017,3,4,PF,1,0,0,1
+bolivia,2005,3,3,PF,1,0,0,1
+bolivia,2006,3,3,PF,1,0,0,1
+bolivia,2007,3,3,PF,1,0,0,1
 bolivia,2008,3,3,PF,1,0,0,1
 bolivia,2009,3,3,PF,1,0,0,1
 bolivia,2010,3,3,PF,1,0,0,1
@@ -209,6 +272,9 @@ bolivia,2014,3,3,PF,1,0,0,1
 bolivia,2015,3,3,PF,1,0,0,1
 bolivia,2016,3,3,PF,1,0,0,1
 bolivia,2017,3,3,PF,1,0,0,1
+bosnia and herzegovina,2005,4,3,PF,1,0,0,1
+bosnia and herzegovina,2006,3,3,PF,1,0,0,1
+bosnia and herzegovina,2007,4,3,PF,1,0,0,1
 bosnia and herzegovina,2008,4,3,PF,1,0,0,1
 bosnia and herzegovina,2009,4,3,PF,1,0,0,1
 bosnia and herzegovina,2010,4,3,PF,1,0,0,1
@@ -219,6 +285,9 @@ bosnia and herzegovina,2014,4,3,PF,1,0,0,1
 bosnia and herzegovina,2015,4,3,PF,1,0,0,1
 bosnia and herzegovina,2016,4,4,PF,1,0,0,1
 bosnia and herzegovina,2017,4,4,PF,1,0,0,1
+botswana,2005,2,2,F,2,1,0,0
+botswana,2006,2,2,F,2,1,0,0
+botswana,2007,2,2,F,2,1,0,0
 botswana,2008,2,2,F,2,1,0,0
 botswana,2009,3,2,F,2,1,0,0
 botswana,2010,3,2,F,2,1,0,0
@@ -229,6 +298,9 @@ botswana,2014,3,2,F,2,1,0,0
 botswana,2015,3,2,F,2,1,0,0
 botswana,2016,3,2,F,2,1,0,0
 botswana,2017,3,2,F,2,1,0,0
+brazil,2005,2,2,F,2,1,0,0
+brazil,2006,2,2,F,2,1,0,0
+brazil,2007,2,2,F,2,1,0,0
 brazil,2008,2,2,F,2,1,0,0
 brazil,2009,2,2,F,2,1,0,0
 brazil,2010,2,2,F,2,1,0,0
@@ -239,6 +311,9 @@ brazil,2014,2,2,F,2,1,0,0
 brazil,2015,2,2,F,2,1,0,0
 brazil,2016,2,2,F,2,1,0,0
 brazil,2017,2,2,F,2,1,0,0
+brunei,2005,6,5,NF,0,0,1,0
+brunei,2006,6,5,NF,0,0,1,0
+brunei,2007,6,5,NF,0,0,1,0
 brunei,2008,6,5,NF,0,0,1,0
 brunei,2009,6,5,NF,0,0,1,0
 brunei,2010,6,5,NF,0,0,1,0
@@ -249,6 +324,9 @@ brunei,2014,6,5,NF,0,0,1,0
 brunei,2015,6,5,NF,0,0,1,0
 brunei,2016,6,5,NF,0,0,1,0
 brunei,2017,6,5,NF,0,0,1,0
+bulgaria,2005,1,2,F,2,1,0,0
+bulgaria,2006,1,2,F,2,1,0,0
+bulgaria,2007,1,2,F,2,1,0,0
 bulgaria,2008,2,2,F,2,1,0,0
 bulgaria,2009,2,2,F,2,1,0,0
 bulgaria,2010,2,2,F,2,1,0,0
@@ -259,6 +337,9 @@ bulgaria,2014,2,2,F,2,1,0,0
 bulgaria,2015,2,2,F,2,1,0,0
 bulgaria,2016,2,2,F,2,1,0,0
 bulgaria,2017,2,2,F,2,1,0,0
+burkina faso,2005,5,3,PF,1,0,0,1
+burkina faso,2006,5,3,PF,1,0,0,1
+burkina faso,2007,5,3,PF,1,0,0,1
 burkina faso,2008,5,3,PF,1,0,0,1
 burkina faso,2009,5,3,PF,1,0,0,1
 burkina faso,2010,5,3,PF,1,0,0,1
@@ -269,6 +350,9 @@ burkina faso,2014,6,3,PF,1,0,0,1
 burkina faso,2015,4,3,PF,1,0,0,1
 burkina faso,2016,4,3,PF,1,0,0,1
 burkina faso,2017,4,3,PF,1,0,0,1
+burundi,2005,3,5,PF,1,0,0,1
+burundi,2006,4,5,PF,1,0,0,1
+burundi,2007,4,5,PF,1,0,0,1
 burundi,2008,4,5,PF,1,0,0,1
 burundi,2009,4,5,PF,1,0,0,1
 burundi,2010,5,5,PF,1,0,0,1
@@ -279,6 +363,9 @@ burundi,2014,6,5,NF,0,0,1,0
 burundi,2015,7,6,NF,0,0,1,0
 burundi,2016,7,6,NF,0,0,1,0
 burundi,2017,7,6,NF,0,0,1,0
+cambodia,2005,6,5,NF,0,0,1,0
+cambodia,2006,6,5,NF,0,0,1,0
+cambodia,2007,6,5,NF,0,0,1,0
 cambodia,2008,6,5,NF,0,0,1,0
 cambodia,2009,6,5,NF,0,0,1,0
 cambodia,2010,6,5,NF,0,0,1,0
@@ -289,6 +376,9 @@ cambodia,2014,6,5,NF,0,0,1,0
 cambodia,2015,6,5,NF,0,0,1,0
 cambodia,2016,6,5,NF,0,0,1,0
 cambodia,2017,6,5,NF,0,0,1,0
+cameroon,2005,6,6,NF,0,0,1,0
+cameroon,2006,6,6,NF,0,0,1,0
+cameroon,2007,6,6,NF,0,0,1,0
 cameroon,2008,6,6,NF,0,0,1,0
 cameroon,2009,6,6,NF,0,0,1,0
 cameroon,2010,6,6,NF,0,0,1,0
@@ -299,6 +389,9 @@ cameroon,2014,6,6,NF,0,0,1,0
 cameroon,2015,6,6,NF,0,0,1,0
 cameroon,2016,6,6,NF,0,0,1,0
 cameroon,2017,6,6,NF,0,0,1,0
+canada,2005,1,1,F,2,1,0,0
+canada,2006,1,1,F,2,1,0,0
+canada,2007,1,1,F,2,1,0,0
 canada,2008,1,1,F,2,1,0,0
 canada,2009,1,1,F,2,1,0,0
 canada,2010,1,1,F,2,1,0,0
@@ -309,6 +402,9 @@ canada,2014,1,1,F,2,1,0,0
 canada,2015,1,1,F,2,1,0,0
 canada,2016,1,1,F,2,1,0,0
 canada,2017,1,1,F,2,1,0,0
+cape verde,2005,1,1,F,2,1,0,0
+cape verde,2006,1,1,F,2,1,0,0
+cape verde,2007,1,1,F,2,1,0,0
 cape verde,2008,1,1,F,2,1,0,0
 cape verde,2009,1,1,F,2,1,0,0
 cape verde,2010,1,1,F,2,1,0,0
@@ -319,6 +415,9 @@ cape verde,2014,1,1,F,2,1,0,0
 cape verde,2015,1,1,F,2,1,0,0
 cape verde,2016,1,1,F,2,1,0,0
 cape verde,2017,1,1,F,2,1,0,0
+central african republic,2005,5,4,PF,1,0,0,1
+central african republic,2006,5,4,PF,1,0,0,1
+central african republic,2007,5,5,PF,1,0,0,1
 central african republic,2008,5,5,PF,1,0,0,1
 central african republic,2009,5,5,PF,1,0,0,1
 central african republic,2010,5,5,PF,1,0,0,1
@@ -329,6 +428,9 @@ central african republic,2014,7,7,NF,0,0,1,0
 central african republic,2015,7,7,NF,0,0,1,0
 central african republic,2016,7,7,NF,0,0,1,0
 central african republic,2017,7,7,NF,0,0,1,0
+chad,2005,6,5,NF,0,0,1,0
+chad,2006,6,6,NF,0,0,1,0
+chad,2007,7,6,NF,0,0,1,0
 chad,2008,7,6,NF,0,0,1,0
 chad,2009,7,6,NF,0,0,1,0
 chad,2010,7,6,NF,0,0,1,0
@@ -339,6 +441,9 @@ chad,2014,7,6,NF,0,0,1,0
 chad,2015,7,6,NF,0,0,1,0
 chad,2016,7,6,NF,0,0,1,0
 chad,2017,7,6,NF,0,0,1,0
+chile,2005,1,1,F,2,1,0,0
+chile,2006,1,1,F,2,1,0,0
+chile,2007,1,1,F,2,1,0,0
 chile,2008,1,1,F,2,1,0,0
 chile,2009,1,1,F,2,1,0,0
 chile,2010,1,1,F,2,1,0,0
@@ -349,6 +454,9 @@ chile,2014,1,1,F,2,1,0,0
 chile,2015,1,1,F,2,1,0,0
 chile,2016,1,1,F,2,1,0,0
 chile,2017,1,1,F,2,1,0,0
+china,2005,7,6,NF,0,0,1,0
+china,2006,7,6,NF,0,0,1,0
+china,2007,7,6,NF,0,0,1,0
 china,2008,7,6,NF,0,0,1,0
 china,2009,7,6,NF,0,0,1,0
 china,2010,7,6,NF,0,0,1,0
@@ -359,6 +467,9 @@ china,2014,7,6,NF,0,0,1,0
 china,2015,7,6,NF,0,0,1,0
 china,2016,7,6,NF,0,0,1,0
 china,2017,7,6,NF,0,0,1,0
+colombia,2005,3,3,PF,1,0,0,1
+colombia,2006,3,3,PF,1,0,0,1
+colombia,2007,3,3,PF,1,0,0,1
 colombia,2008,3,4,PF,1,0,0,1
 colombia,2009,3,4,PF,1,0,0,1
 colombia,2010,3,4,PF,1,0,0,1
@@ -369,6 +480,9 @@ colombia,2014,3,4,PF,1,0,0,1
 colombia,2015,3,4,PF,1,0,0,1
 colombia,2016,3,3,PF,1,0,0,1
 colombia,2017,3,3,PF,1,0,0,1
+comoros,2005,4,4,PF,1,0,0,1
+comoros,2006,3,4,PF,1,0,0,1
+comoros,2007,4,4,PF,1,0,0,1
 comoros,2008,3,4,PF,1,0,0,1
 comoros,2009,3,4,PF,1,0,0,1
 comoros,2010,3,4,PF,1,0,0,1
@@ -379,6 +493,9 @@ comoros,2014,3,4,PF,1,0,0,1
 comoros,2015,3,4,PF,1,0,0,1
 comoros,2016,3,4,PF,1,0,0,1
 comoros,2017,3,4,PF,1,0,0,1
+congo (brazzaville),2005,5,5,PF,1,0,0,1
+congo (brazzaville),2006,6,5,NF,0,0,1,0
+congo (brazzaville),2007,6,5,NF,0,0,1,0
 congo (brazzaville),2008,6,5,NF,0,0,1,0
 congo (brazzaville),2009,6,5,NF,0,0,1,0
 congo (brazzaville),2010,6,5,NF,0,0,1,0
@@ -389,6 +506,9 @@ congo (brazzaville),2014,6,5,NF,0,0,1,0
 congo (brazzaville),2015,6,5,NF,0,0,1,0
 congo (brazzaville),2016,7,5,NF,0,0,1,0
 congo (brazzaville),2017,7,5,NF,0,0,1,0
+congo (kinshasa),2005,6,6,NF,0,0,1,0
+congo (kinshasa),2006,5,6,NF,0,0,1,0
+congo (kinshasa),2007,5,6,NF,0,0,1,0
 congo (kinshasa),2008,6,6,NF,0,0,1,0
 congo (kinshasa),2009,6,6,NF,0,0,1,0
 congo (kinshasa),2010,6,6,NF,0,0,1,0
@@ -399,6 +519,9 @@ congo (kinshasa),2014,6,6,NF,0,0,1,0
 congo (kinshasa),2015,6,6,NF,0,0,1,0
 congo (kinshasa),2016,7,6,NF,0,0,1,0
 congo (kinshasa),2017,7,6,NF,0,0,1,0
+costa rica,2005,1,1,F,2,1,0,0
+costa rica,2006,1,1,F,2,1,0,0
+costa rica,2007,1,1,F,2,1,0,0
 costa rica,2008,1,1,F,2,1,0,0
 costa rica,2009,1,1,F,2,1,0,0
 costa rica,2010,1,1,F,2,1,0,0
@@ -409,6 +532,9 @@ costa rica,2014,1,1,F,2,1,0,0
 costa rica,2015,1,1,F,2,1,0,0
 costa rica,2016,1,1,F,2,1,0,0
 costa rica,2017,1,1,F,2,1,0,0
+cote d'ivoire,2005,6,6,NF,0,0,1,0
+cote d'ivoire,2006,7,6,NF,0,0,1,0
+cote d'ivoire,2007,7,5,NF,0,0,1,0
 cote d'ivoire,2008,6,5,NF,0,0,1,0
 cote d'ivoire,2009,6,5,NF,0,0,1,0
 cote d'ivoire,2010,7,6,NF,0,0,1,0
@@ -419,6 +545,9 @@ cote d'ivoire,2014,5,4,PF,1,0,0,1
 cote d'ivoire,2015,4,4,PF,1,0,0,1
 cote d'ivoire,2016,4,4,PF,1,0,0,1
 cote d'ivoire,2017,4,4,PF,1,0,0,1
+croatia,2005,2,2,F,2,1,0,0
+croatia,2006,2,2,F,2,1,0,0
+croatia,2007,2,2,F,2,1,0,0
 croatia,2008,2,2,F,2,1,0,0
 croatia,2009,1,2,F,2,1,0,0
 croatia,2010,1,2,F,2,1,0,0
@@ -429,6 +558,9 @@ croatia,2014,1,2,F,2,1,0,0
 croatia,2015,1,2,F,2,1,0,0
 croatia,2016,1,2,F,2,1,0,0
 croatia,2017,1,2,F,2,1,0,0
+cuba,2005,7,7,NF,0,0,1,0
+cuba,2006,7,7,NF,0,0,1,0
+cuba,2007,7,7,NF,0,0,1,0
 cuba,2008,7,6,NF,0,0,1,0
 cuba,2009,7,6,NF,0,0,1,0
 cuba,2010,7,6,NF,0,0,1,0
@@ -439,6 +571,9 @@ cuba,2014,7,6,NF,0,0,1,0
 cuba,2015,7,6,NF,0,0,1,0
 cuba,2016,7,6,NF,0,0,1,0
 cuba,2017,7,6,NF,0,0,1,0
+cyprus,2005,1,1,F,2,1,0,0
+cyprus,2006,1,1,F,2,1,0,0
+cyprus,2007,1,1,F,2,1,0,0
 cyprus,2008,1,1,F,2,1,0,0
 cyprus,2009,1,1,F,2,1,0,0
 cyprus,2010,1,1,F,2,1,0,0
@@ -449,6 +584,9 @@ cyprus,2014,1,1,F,2,1,0,0
 cyprus,2015,1,1,F,2,1,0,0
 cyprus,2016,1,1,F,2,1,0,0
 cyprus,2017,1,1,F,2,1,0,0
+czech republic,2005,1,1,F,2,1,0,0
+czech republic,2006,1,1,F,2,1,0,0
+czech republic,2007,1,1,F,2,1,0,0
 czech republic,2008,1,1,F,2,1,0,0
 czech republic,2009,1,1,F,2,1,0,0
 czech republic,2010,1,1,F,2,1,0,0
@@ -459,6 +597,9 @@ czech republic,2014,1,1,F,2,1,0,0
 czech republic,2015,1,1,F,2,1,0,0
 czech republic,2016,1,1,F,2,1,0,0
 czech republic,2017,1,1,F,2,1,0,0
+denmark,2005,1,1,F,2,1,0,0
+denmark,2006,1,1,F,2,1,0,0
+denmark,2007,1,1,F,2,1,0,0
 denmark,2008,1,1,F,2,1,0,0
 denmark,2009,1,1,F,2,1,0,0
 denmark,2010,1,1,F,2,1,0,0
@@ -469,6 +610,9 @@ denmark,2014,1,1,F,2,1,0,0
 denmark,2015,1,1,F,2,1,0,0
 denmark,2016,1,1,F,2,1,0,0
 denmark,2017,1,1,F,2,1,0,0
+djibouti,2005,5,5,PF,1,0,0,1
+djibouti,2006,5,5,PF,1,0,0,1
+djibouti,2007,5,5,PF,1,0,0,1
 djibouti,2008,5,5,PF,1,0,0,1
 djibouti,2009,5,5,PF,1,0,0,1
 djibouti,2010,6,5,NF,0,0,1,0
@@ -479,6 +623,9 @@ djibouti,2014,6,5,NF,0,0,1,0
 djibouti,2015,6,5,NF,0,0,1,0
 djibouti,2016,6,5,NF,0,0,1,0
 djibouti,2017,6,5,NF,0,0,1,0
+dominica,2005,1,1,F,2,1,0,0
+dominica,2006,1,1,F,2,1,0,0
+dominica,2007,1,1,F,2,1,0,0
 dominica,2008,1,1,F,2,1,0,0
 dominica,2009,1,1,F,2,1,0,0
 dominica,2010,1,1,F,2,1,0,0
@@ -489,6 +636,9 @@ dominica,2014,1,1,F,2,1,0,0
 dominica,2015,1,1,F,2,1,0,0
 dominica,2016,1,1,F,2,1,0,0
 dominica,2017,1,1,F,2,1,0,0
+dominican republic,2005,2,2,F,2,1,0,0
+dominican republic,2006,2,2,F,2,1,0,0
+dominican republic,2007,2,2,F,2,1,0,0
 dominican republic,2008,2,2,F,2,1,0,0
 dominican republic,2009,2,2,F,2,1,0,0
 dominican republic,2010,2,2,F,2,1,0,0
@@ -499,6 +649,9 @@ dominican republic,2014,2,3,F,2,1,0,0
 dominican republic,2015,3,3,PF,1,0,0,1
 dominican republic,2016,3,3,PF,1,0,0,1
 dominican republic,2017,3,3,PF,1,0,0,1
+ecuador,2005,3,3,PF,1,0,0,1
+ecuador,2006,3,3,PF,1,0,0,1
+ecuador,2007,3,3,PF,1,0,0,1
 ecuador,2008,3,3,PF,1,0,0,1
 ecuador,2009,3,3,PF,1,0,0,1
 ecuador,2010,3,3,PF,1,0,0,1
@@ -509,6 +662,9 @@ ecuador,2014,3,3,PF,1,0,0,1
 ecuador,2015,3,3,PF,1,0,0,1
 ecuador,2016,3,4,PF,1,0,0,1
 ecuador,2017,3,3,PF,1,0,0,1
+egypt,2005,6,5,NF,0,0,1,0
+egypt,2006,6,5,NF,0,0,1,0
+egypt,2007,6,5,NF,0,0,1,0
 egypt,2008,6,5,NF,0,0,1,0
 egypt,2009,6,5,NF,0,0,1,0
 egypt,2010,6,5,NF,0,0,1,0
@@ -519,6 +675,9 @@ egypt,2014,6,5,NF,0,0,1,0
 egypt,2015,6,5,NF,0,0,1,0
 egypt,2016,6,5,NF,0,0,1,0
 egypt,2017,6,6,NF,0,0,1,0
+el salvador,2005,2,3,F,2,1,0,0
+el salvador,2006,2,3,F,2,1,0,0
+el salvador,2007,2,3,F,2,1,0,0
 el salvador,2008,2,3,F,2,1,0,0
 el salvador,2009,2,3,F,2,1,0,0
 el salvador,2010,2,3,F,2,1,0,0
@@ -529,6 +688,9 @@ el salvador,2014,2,3,F,2,1,0,0
 el salvador,2015,2,3,F,2,1,0,0
 el salvador,2016,2,3,F,2,1,0,0
 el salvador,2017,2,3,F,2,1,0,0
+equatorial guinea,2005,7,6,NF,0,0,1,0
+equatorial guinea,2006,7,6,NF,0,0,1,0
+equatorial guinea,2007,7,6,NF,0,0,1,0
 equatorial guinea,2008,7,7,NF,0,0,1,0
 equatorial guinea,2009,7,7,NF,0,0,1,0
 equatorial guinea,2010,7,7,NF,0,0,1,0
@@ -539,6 +701,9 @@ equatorial guinea,2014,7,7,NF,0,0,1,0
 equatorial guinea,2015,7,7,NF,0,0,1,0
 equatorial guinea,2016,7,7,NF,0,0,1,0
 equatorial guinea,2017,7,7,NF,0,0,1,0
+eritrea,2005,7,6,NF,0,0,1,0
+eritrea,2006,7,6,NF,0,0,1,0
+eritrea,2007,7,6,NF,0,0,1,0
 eritrea,2008,7,6,NF,0,0,1,0
 eritrea,2009,7,7,NF,0,0,1,0
 eritrea,2010,7,7,NF,0,0,1,0
@@ -549,6 +714,9 @@ eritrea,2014,7,7,NF,0,0,1,0
 eritrea,2015,7,7,NF,0,0,1,0
 eritrea,2016,7,7,NF,0,0,1,0
 eritrea,2017,7,7,NF,0,0,1,0
+estonia,2005,1,1,F,2,1,0,0
+estonia,2006,1,1,F,2,1,0,0
+estonia,2007,1,1,F,2,1,0,0
 estonia,2008,1,1,F,2,1,0,0
 estonia,2009,1,1,F,2,1,0,0
 estonia,2010,1,1,F,2,1,0,0
@@ -559,6 +727,9 @@ estonia,2014,1,1,F,2,1,0,0
 estonia,2015,1,1,F,2,1,0,0
 estonia,2016,1,1,F,2,1,0,0
 estonia,2017,1,1,F,2,1,0,0
+ethiopia,2005,5,5,PF,1,0,0,1
+ethiopia,2006,5,5,PF,1,0,0,1
+ethiopia,2007,5,5,PF,1,0,0,1
 ethiopia,2008,5,5,PF,1,0,0,1
 ethiopia,2009,5,5,PF,1,0,0,1
 ethiopia,2010,6,6,NF,0,0,1,0
@@ -569,6 +740,9 @@ ethiopia,2014,6,6,NF,0,0,1,0
 ethiopia,2015,7,6,NF,0,0,1,0
 ethiopia,2016,7,6,NF,0,0,1,0
 ethiopia,2017,7,6,NF,0,0,1,0
+fiji,2005,4,3,PF,1,0,0,1
+fiji,2006,6,4,PF,1,0,0,1
+fiji,2007,6,4,PF,1,0,0,1
 fiji,2008,6,4,PF,1,0,0,1
 fiji,2009,6,4,PF,1,0,0,1
 fiji,2010,6,4,PF,1,0,0,1
@@ -579,6 +753,9 @@ fiji,2014,3,4,PF,1,0,0,1
 fiji,2015,3,3,PF,1,0,0,1
 fiji,2016,3,4,PF,1,0,0,1
 fiji,2017,3,3,PF,1,0,0,1
+finland,2005,1,1,F,2,1,0,0
+finland,2006,1,1,F,2,1,0,0
+finland,2007,1,1,F,2,1,0,0
 finland,2008,1,1,F,2,1,0,0
 finland,2009,1,1,F,2,1,0,0
 finland,2010,1,1,F,2,1,0,0
@@ -589,6 +766,9 @@ finland,2014,1,1,F,2,1,0,0
 finland,2015,1,1,F,2,1,0,0
 finland,2016,1,1,F,2,1,0,0
 finland,2017,1,1,F,2,1,0,0
+france,2005,1,1,F,2,1,0,0
+france,2006,1,1,F,2,1,0,0
+france,2007,1,1,F,2,1,0,0
 france,2008,1,1,F,2,1,0,0
 france,2009,1,1,F,2,1,0,0
 france,2010,1,1,F,2,1,0,0
@@ -599,6 +779,9 @@ france,2014,1,1,F,2,1,0,0
 france,2015,1,1,F,2,1,0,0
 france,2016,1,2,F,2,1,0,0
 france,2017,1,2,F,2,1,0,0
+gabon,2005,6,4,PF,1,0,0,1
+gabon,2006,6,4,PF,1,0,0,1
+gabon,2007,6,4,PF,1,0,0,1
 gabon,2008,6,4,PF,1,0,0,1
 gabon,2009,6,5,NF,0,0,1,0
 gabon,2010,6,5,NF,0,0,1,0
@@ -609,6 +792,9 @@ gabon,2014,6,5,NF,0,0,1,0
 gabon,2015,6,5,NF,0,0,1,0
 gabon,2016,6,5,NF,0,0,1,0
 gabon,2017,7,5,NF,0,0,1,0
+georgia,2005,3,3,PF,1,0,0,1
+georgia,2006,3,3,PF,1,0,0,1
+georgia,2007,4,4,PF,1,0,0,1
 georgia,2008,4,4,PF,1,0,0,1
 georgia,2009,4,4,PF,1,0,0,1
 georgia,2010,4,3,PF,1,0,0,1
@@ -619,6 +805,9 @@ georgia,2014,3,3,PF,1,0,0,1
 georgia,2015,3,3,PF,1,0,0,1
 georgia,2016,3,3,PF,1,0,0,1
 georgia,2017,3,3,PF,1,0,0,1
+germany,2005,1,1,F,2,1,0,0
+germany,2006,1,1,F,2,1,0,0
+germany,2007,1,1,F,2,1,0,0
 germany,2008,1,1,F,2,1,0,0
 germany,2009,1,1,F,2,1,0,0
 germany,2010,1,1,F,2,1,0,0
@@ -629,6 +818,9 @@ germany,2014,1,1,F,2,1,0,0
 germany,2015,1,1,F,2,1,0,0
 germany,2016,1,1,F,2,1,0,0
 germany,2017,1,1,F,2,1,0,0
+ghana,2005,1,2,F,2,1,0,0
+ghana,2006,1,2,F,2,1,0,0
+ghana,2007,1,2,F,2,1,0,0
 ghana,2008,1,2,F,2,1,0,0
 ghana,2009,1,2,F,2,1,0,0
 ghana,2010,1,2,F,2,1,0,0
@@ -639,6 +831,9 @@ ghana,2014,1,2,F,2,1,0,0
 ghana,2015,1,2,F,2,1,0,0
 ghana,2016,1,2,F,2,1,0,0
 ghana,2017,1,2,F,2,1,0,0
+greece,2005,1,2,F,2,1,0,0
+greece,2006,1,2,F,2,1,0,0
+greece,2007,1,2,F,2,1,0,0
 greece,2008,1,2,F,2,1,0,0
 greece,2009,1,2,F,2,1,0,0
 greece,2010,1,2,F,2,1,0,0
@@ -649,6 +844,9 @@ greece,2014,2,2,F,2,1,0,0
 greece,2015,2,2,F,2,1,0,0
 greece,2016,2,2,F,2,1,0,0
 greece,2017,2,2,F,2,1,0,0
+grenada,2005,1,2,F,2,1,0,0
+grenada,2006,1,2,F,2,1,0,0
+grenada,2007,1,2,F,2,1,0,0
 grenada,2008,1,2,F,2,1,0,0
 grenada,2009,1,2,F,2,1,0,0
 grenada,2010,1,2,F,2,1,0,0
@@ -659,6 +857,9 @@ grenada,2014,1,2,F,2,1,0,0
 grenada,2015,1,2,F,2,1,0,0
 grenada,2016,1,2,F,2,1,0,0
 grenada,2017,1,2,F,2,1,0,0
+guatemala,2005,4,4,PF,1,0,0,1
+guatemala,2006,3,4,PF,1,0,0,1
+guatemala,2007,3,4,PF,1,0,0,1
 guatemala,2008,3,4,PF,1,0,0,1
 guatemala,2009,4,4,PF,1,0,0,1
 guatemala,2010,4,4,PF,1,0,0,1
@@ -669,6 +870,9 @@ guatemala,2014,3,4,PF,1,0,0,1
 guatemala,2015,4,4,PF,1,0,0,1
 guatemala,2016,4,4,PF,1,0,0,1
 guatemala,2017,4,4,PF,1,0,0,1
+guinea,2005,6,5,NF,0,0,1,0
+guinea,2006,6,5,NF,0,0,1,0
+guinea,2007,6,5,NF,0,0,1,0
 guinea,2008,7,5,NF,0,0,1,0
 guinea,2009,7,6,NF,0,0,1,0
 guinea,2010,5,5,PF,1,0,0,1
@@ -679,6 +883,9 @@ guinea,2014,5,5,PF,1,0,0,1
 guinea,2015,5,5,PF,1,0,0,1
 guinea,2016,5,5,PF,1,0,0,1
 guinea,2017,5,5,PF,1,0,0,1
+guinea-bissau,2005,3,4,PF,1,0,0,1
+guinea-bissau,2006,4,4,PF,1,0,0,1
+guinea-bissau,2007,4,4,PF,1,0,0,1
 guinea-bissau,2008,4,4,PF,1,0,0,1
 guinea-bissau,2009,4,4,PF,1,0,0,1
 guinea-bissau,2010,4,4,PF,1,0,0,1
@@ -689,6 +896,9 @@ guinea-bissau,2014,5,5,PF,1,0,0,1
 guinea-bissau,2015,5,5,PF,1,0,0,1
 guinea-bissau,2016,5,5,PF,1,0,0,1
 guinea-bissau,2017,5,5,PF,1,0,0,1
+guyana,2005,3,3,PF,1,0,0,1
+guyana,2006,2,3,F,2,1,0,0
+guyana,2007,2,3,F,2,1,0,0
 guyana,2008,2,3,F,2,1,0,0
 guyana,2009,2,3,F,2,1,0,0
 guyana,2010,2,3,F,2,1,0,0
@@ -699,6 +909,9 @@ guyana,2014,2,3,F,2,1,0,0
 guyana,2015,2,3,F,2,1,0,0
 guyana,2016,2,3,F,2,1,0,0
 guyana,2017,2,3,F,2,1,0,0
+haiti,2005,7,6,NF,0,0,1,0
+haiti,2006,4,5,PF,1,0,0,1
+haiti,2007,4,5,PF,1,0,0,1
 haiti,2008,4,5,PF,1,0,0,1
 haiti,2009,4,5,PF,1,0,0,1
 haiti,2010,4,5,PF,1,0,0,1
@@ -709,6 +922,9 @@ haiti,2014,5,5,PF,1,0,0,1
 haiti,2015,5,5,PF,1,0,0,1
 haiti,2016,5,5,PF,1,0,0,1
 haiti,2017,5,5,PF,1,0,0,1
+honduras,2005,3,3,PF,1,0,0,1
+honduras,2006,3,3,PF,1,0,0,1
+honduras,2007,3,3,PF,1,0,0,1
 honduras,2008,3,3,PF,1,0,0,1
 honduras,2009,4,4,PF,1,0,0,1
 honduras,2010,4,4,PF,1,0,0,1
@@ -719,6 +935,9 @@ honduras,2014,4,4,PF,1,0,0,1
 honduras,2015,4,4,PF,1,0,0,1
 honduras,2016,4,4,PF,1,0,0,1
 honduras,2017,4,4,PF,1,0,0,1
+hungary,2005,1,1,F,2,1,0,0
+hungary,2006,1,1,F,2,1,0,0
+hungary,2007,1,1,F,2,1,0,0
 hungary,2008,1,1,F,2,1,0,0
 hungary,2009,1,1,F,2,1,0,0
 hungary,2010,1,1,F,2,1,0,0
@@ -729,6 +948,9 @@ hungary,2014,2,2,F,2,1,0,0
 hungary,2015,2,2,F,2,1,0,0
 hungary,2016,3,2,F,2,1,0,0
 hungary,2017,3,2,F,2,1,0,0
+iceland,2005,1,1,F,2,1,0,0
+iceland,2006,1,1,F,2,1,0,0
+iceland,2007,1,1,F,2,1,0,0
 iceland,2008,1,1,F,2,1,0,0
 iceland,2009,1,1,F,2,1,0,0
 iceland,2010,1,1,F,2,1,0,0
@@ -739,6 +961,9 @@ iceland,2014,1,1,F,2,1,0,0
 iceland,2015,1,1,F,2,1,0,0
 iceland,2016,1,1,F,2,1,0,0
 iceland,2017,1,1,F,2,1,0,0
+india,2005,2,3,F,2,1,0,0
+india,2006,2,3,F,2,1,0,0
+india,2007,2,3,F,2,1,0,0
 india,2008,2,3,F,2,1,0,0
 india,2009,2,3,F,2,1,0,0
 india,2010,2,3,F,2,1,0,0
@@ -749,6 +974,9 @@ india,2014,2,3,F,2,1,0,0
 india,2015,2,3,F,2,1,0,0
 india,2016,2,3,F,2,1,0,0
 india,2017,2,3,F,2,1,0,0
+indonesia,2005,2,3,F,2,1,0,0
+indonesia,2006,2,3,F,2,1,0,0
+indonesia,2007,2,3,F,2,1,0,0
 indonesia,2008,2,3,F,2,1,0,0
 indonesia,2009,2,3,F,2,1,0,0
 indonesia,2010,2,3,F,2,1,0,0
@@ -759,6 +987,9 @@ indonesia,2014,2,4,PF,1,0,0,1
 indonesia,2015,2,4,PF,1,0,0,1
 indonesia,2016,2,4,PF,1,0,0,1
 indonesia,2017,2,4,PF,1,0,0,1
+iran,2005,6,6,NF,0,0,1,0
+iran,2006,6,6,NF,0,0,1,0
+iran,2007,6,6,NF,0,0,1,0
 iran,2008,6,6,NF,0,0,1,0
 iran,2009,6,6,NF,0,0,1,0
 iran,2010,6,6,NF,0,0,1,0
@@ -769,6 +1000,9 @@ iran,2014,6,6,NF,0,0,1,0
 iran,2015,6,6,NF,0,0,1,0
 iran,2016,6,6,NF,0,0,1,0
 iran,2017,6,6,NF,0,0,1,0
+iraq,2005,6,5,NF,0,0,1,0
+iraq,2006,6,6,NF,0,0,1,0
+iraq,2007,6,6,NF,0,0,1,0
 iraq,2008,6,6,NF,0,0,1,0
 iraq,2009,5,6,NF,0,0,1,0
 iraq,2010,5,6,NF,0,0,1,0
@@ -779,6 +1013,9 @@ iraq,2014,6,6,NF,0,0,1,0
 iraq,2015,5,6,NF,0,0,1,0
 iraq,2016,5,6,NF,0,0,1,0
 iraq,2017,5,6,NF,0,0,1,0
+ireland,2005,1,1,F,2,1,0,0
+ireland,2006,1,1,F,2,1,0,0
+ireland,2007,1,1,F,2,1,0,0
 ireland,2008,1,1,F,2,1,0,0
 ireland,2009,1,1,F,2,1,0,0
 ireland,2010,1,1,F,2,1,0,0
@@ -789,6 +1026,9 @@ ireland,2014,1,1,F,2,1,0,0
 ireland,2015,1,1,F,2,1,0,0
 ireland,2016,1,1,F,2,1,0,0
 ireland,2017,1,1,F,2,1,0,0
+israel,2005,1,2,F,2,1,0,0
+israel,2006,1,2,F,2,1,0,0
+israel,2007,1,2,F,2,1,0,0
 israel,2008,1,2,F,2,1,0,0
 israel,2009,1,2,F,2,1,0,0
 israel,2010,1,2,F,2,1,0,0
@@ -799,6 +1039,9 @@ israel,2014,1,2,F,2,1,0,0
 israel,2015,1,2,F,2,1,0,0
 israel,2016,1,2,F,2,1,0,0
 israel,2017,1,3,F,2,1,0,0
+italy,2005,1,1,F,2,1,0,0
+italy,2006,1,1,F,2,1,0,0
+italy,2007,1,1,F,2,1,0,0
 italy,2008,1,2,F,2,1,0,0
 italy,2009,1,2,F,2,1,0,0
 italy,2010,1,2,F,2,1,0,0
@@ -809,6 +1052,9 @@ italy,2014,1,1,F,2,1,0,0
 italy,2015,1,1,F,2,1,0,0
 italy,2016,1,1,F,2,1,0,0
 italy,2017,1,1,F,2,1,0,0
+jamaica,2005,2,3,F,2,1,0,0
+jamaica,2006,2,3,F,2,1,0,0
+jamaica,2007,2,3,F,2,1,0,0
 jamaica,2008,2,3,F,2,1,0,0
 jamaica,2009,2,3,F,2,1,0,0
 jamaica,2010,2,3,F,2,1,0,0
@@ -819,6 +1065,9 @@ jamaica,2014,2,3,F,2,1,0,0
 jamaica,2015,2,3,F,2,1,0,0
 jamaica,2016,2,3,F,2,1,0,0
 jamaica,2017,2,3,F,2,1,0,0
+japan,2005,1,2,F,2,1,0,0
+japan,2006,1,2,F,2,1,0,0
+japan,2007,1,2,F,2,1,0,0
 japan,2008,1,2,F,2,1,0,0
 japan,2009,1,2,F,2,1,0,0
 japan,2010,1,2,F,2,1,0,0
@@ -829,6 +1078,9 @@ japan,2014,1,1,F,2,1,0,0
 japan,2015,1,1,F,2,1,0,0
 japan,2016,1,1,F,2,1,0,0
 japan,2017,1,1,F,2,1,0,0
+jordan,2005,5,4,PF,1,0,0,1
+jordan,2006,5,4,PF,1,0,0,1
+jordan,2007,5,4,PF,1,0,0,1
 jordan,2008,5,5,PF,1,0,0,1
 jordan,2009,6,5,NF,0,0,1,0
 jordan,2010,6,5,NF,0,0,1,0
@@ -839,6 +1091,9 @@ jordan,2014,6,5,NF,0,0,1,0
 jordan,2015,6,5,NF,0,0,1,0
 jordan,2016,5,5,PF,1,0,0,1
 jordan,2017,5,5,PF,1,0,0,1
+kazakhstan,2005,6,5,NF,0,0,1,0
+kazakhstan,2006,6,5,NF,0,0,1,0
+kazakhstan,2007,6,5,NF,0,0,1,0
 kazakhstan,2008,6,5,NF,0,0,1,0
 kazakhstan,2009,6,5,NF,0,0,1,0
 kazakhstan,2010,6,5,NF,0,0,1,0
@@ -849,6 +1104,9 @@ kazakhstan,2014,6,5,NF,0,0,1,0
 kazakhstan,2015,6,5,NF,0,0,1,0
 kazakhstan,2016,7,5,NF,0,0,1,0
 kazakhstan,2017,7,5,NF,0,0,1,0
+kenya,2005,3,3,PF,1,0,0,1
+kenya,2006,3,3,PF,1,0,0,1
+kenya,2007,4,3,PF,1,0,0,1
 kenya,2008,4,3,PF,1,0,0,1
 kenya,2009,4,4,PF,1,0,0,1
 kenya,2010,4,3,PF,1,0,0,1
@@ -859,6 +1117,9 @@ kenya,2014,4,4,PF,1,0,0,1
 kenya,2015,4,4,PF,1,0,0,1
 kenya,2016,4,4,PF,1,0,0,1
 kenya,2017,4,4,PF,1,0,0,1
+kiribati,2005,1,1,F,2,1,0,0
+kiribati,2006,1,1,F,2,1,0,0
+kiribati,2007,1,1,F,2,1,0,0
 kiribati,2008,1,1,F,2,1,0,0
 kiribati,2009,1,1,F,2,1,0,0
 kiribati,2010,1,1,F,2,1,0,0
@@ -878,6 +1139,9 @@ kosovo,2014,4,4,PF,1,0,0,1
 kosovo,2015,3,4,PF,1,0,0,1
 kosovo,2016,3,4,PF,1,0,0,1
 kosovo,2017,3,4,PF,1,0,0,1
+kuwait,2005,4,5,PF,1,0,0,1
+kuwait,2006,4,4,PF,1,0,0,1
+kuwait,2007,4,4,PF,1,0,0,1
 kuwait,2008,4,4,PF,1,0,0,1
 kuwait,2009,4,4,PF,1,0,0,1
 kuwait,2010,4,5,PF,1,0,0,1
@@ -888,6 +1152,9 @@ kuwait,2014,5,5,PF,1,0,0,1
 kuwait,2015,5,5,PF,1,0,0,1
 kuwait,2016,5,5,PF,1,0,0,1
 kuwait,2017,5,5,PF,1,0,0,1
+kyrgyzstan,2005,5,4,PF,1,0,0,1
+kyrgyzstan,2006,5,4,PF,1,0,0,1
+kyrgyzstan,2007,5,4,PF,1,0,0,1
 kyrgyzstan,2008,5,4,PF,1,0,0,1
 kyrgyzstan,2009,6,5,NF,0,0,1,0
 kyrgyzstan,2010,5,5,PF,1,0,0,1
@@ -898,6 +1165,9 @@ kyrgyzstan,2014,5,5,PF,1,0,0,1
 kyrgyzstan,2015,5,5,PF,1,0,0,1
 kyrgyzstan,2016,5,5,PF,1,0,0,1
 kyrgyzstan,2017,5,5,PF,1,0,0,1
+laos,2005,7,6,NF,0,0,1,0
+laos,2006,7,6,NF,0,0,1,0
+laos,2007,7,6,NF,0,0,1,0
 laos,2008,7,6,NF,0,0,1,0
 laos,2009,7,6,NF,0,0,1,0
 laos,2010,7,6,NF,0,0,1,0
@@ -908,6 +1178,9 @@ laos,2014,7,6,NF,0,0,1,0
 laos,2015,7,6,NF,0,0,1,0
 laos,2016,7,6,NF,0,0,1,0
 laos,2017,7,6,NF,0,0,1,0
+latvia,2005,1,1,F,2,1,0,0
+latvia,2006,1,1,F,2,1,0,0
+latvia,2007,2,1,F,2,1,0,0
 latvia,2008,2,1,F,2,1,0,0
 latvia,2009,2,1,F,2,1,0,0
 latvia,2010,2,2,F,2,1,0,0
@@ -918,6 +1191,9 @@ latvia,2014,2,2,F,2,1,0,0
 latvia,2015,2,2,F,2,1,0,0
 latvia,2016,1,2,F,2,1,0,0
 latvia,2017,2,2,F,2,1,0,0
+lebanon,2005,5,4,PF,1,0,0,1
+lebanon,2006,5,4,PF,1,0,0,1
+lebanon,2007,5,4,PF,1,0,0,1
 lebanon,2008,5,4,PF,1,0,0,1
 lebanon,2009,5,3,PF,1,0,0,1
 lebanon,2010,5,3,PF,1,0,0,1
@@ -928,6 +1204,9 @@ lebanon,2014,5,4,PF,1,0,0,1
 lebanon,2015,5,4,PF,1,0,0,1
 lebanon,2016,5,4,PF,1,0,0,1
 lebanon,2017,6,4,PF,1,0,0,1
+lesotho,2005,2,3,F,2,1,0,0
+lesotho,2006,2,3,F,2,1,0,0
+lesotho,2007,2,3,F,2,1,0,0
 lesotho,2008,2,3,F,2,1,0,0
 lesotho,2009,3,3,PF,1,0,0,1
 lesotho,2010,3,3,PF,1,0,0,1
@@ -938,6 +1217,9 @@ lesotho,2014,2,3,F,2,1,0,0
 lesotho,2015,3,3,PF,1,0,0,1
 lesotho,2016,3,3,PF,1,0,0,1
 lesotho,2017,3,3,PF,1,0,0,1
+liberia,2005,4,4,PF,1,0,0,1
+liberia,2006,3,4,PF,1,0,0,1
+liberia,2007,3,4,PF,1,0,0,1
 liberia,2008,3,4,PF,1,0,0,1
 liberia,2009,3,4,PF,1,0,0,1
 liberia,2010,3,4,PF,1,0,0,1
@@ -948,6 +1230,9 @@ liberia,2014,3,4,PF,1,0,0,1
 liberia,2015,3,4,PF,1,0,0,1
 liberia,2016,3,4,PF,1,0,0,1
 liberia,2017,3,3,PF,1,0,0,1
+libya,2005,7,7,NF,0,0,1,0
+libya,2006,7,7,NF,0,0,1,0
+libya,2007,7,7,NF,0,0,1,0
 libya,2008,7,7,NF,0,0,1,0
 libya,2009,7,7,NF,0,0,1,0
 libya,2010,7,7,NF,0,0,1,0
@@ -958,6 +1243,9 @@ libya,2014,6,6,NF,0,0,1,0
 libya,2015,6,6,NF,0,0,1,0
 libya,2016,7,6,NF,0,0,1,0
 libya,2017,7,6,NF,0,0,1,0
+liechtenstein,2005,1,1,F,2,1,0,0
+liechtenstein,2006,1,1,F,2,1,0,0
+liechtenstein,2007,1,1,F,2,1,0,0
 liechtenstein,2008,1,1,F,2,1,0,0
 liechtenstein,2009,1,1,F,2,1,0,0
 liechtenstein,2010,1,1,F,2,1,0,0
@@ -968,6 +1256,9 @@ liechtenstein,2014,1,1,F,2,1,0,0
 liechtenstein,2015,1,1,F,2,1,0,0
 liechtenstein,2016,2,1,F,2,1,0,0
 liechtenstein,2017,2,1,F,2,1,0,0
+lithuania,2005,1,1,F,2,1,0,0
+lithuania,2006,1,1,F,2,1,0,0
+lithuania,2007,1,1,F,2,1,0,0
 lithuania,2008,1,1,F,2,1,0,0
 lithuania,2009,1,1,F,2,1,0,0
 lithuania,2010,1,1,F,2,1,0,0
@@ -978,6 +1269,9 @@ lithuania,2014,1,1,F,2,1,0,0
 lithuania,2015,1,1,F,2,1,0,0
 lithuania,2016,1,1,F,2,1,0,0
 lithuania,2017,1,1,F,2,1,0,0
+luxembourg,2005,1,1,F,2,1,0,0
+luxembourg,2006,1,1,F,2,1,0,0
+luxembourg,2007,1,1,F,2,1,0,0
 luxembourg,2008,1,1,F,2,1,0,0
 luxembourg,2009,1,1,F,2,1,0,0
 luxembourg,2010,1,1,F,2,1,0,0
@@ -988,6 +1282,9 @@ luxembourg,2014,1,1,F,2,1,0,0
 luxembourg,2015,1,1,F,2,1,0,0
 luxembourg,2016,1,1,F,2,1,0,0
 luxembourg,2017,1,1,F,2,1,0,0
+macedonia,2005,3,3,PF,1,0,0,1
+macedonia,2006,3,3,PF,1,0,0,1
+macedonia,2007,3,3,PF,1,0,0,1
 macedonia,2008,3,3,PF,1,0,0,1
 macedonia,2009,3,3,PF,1,0,0,1
 macedonia,2010,3,3,PF,1,0,0,1
@@ -998,6 +1295,9 @@ macedonia,2014,4,3,PF,1,0,0,1
 macedonia,2015,4,3,PF,1,0,0,1
 macedonia,2016,4,3,PF,1,0,0,1
 macedonia,2017,4,3,PF,1,0,0,1
+madagascar,2005,3,3,PF,1,0,0,1
+madagascar,2006,4,3,PF,1,0,0,1
+madagascar,2007,4,3,PF,1,0,0,1
 madagascar,2008,4,3,PF,1,0,0,1
 madagascar,2009,6,4,PF,1,0,0,1
 madagascar,2010,6,4,PF,1,0,0,1
@@ -1008,6 +1308,9 @@ madagascar,2014,4,4,PF,1,0,0,1
 madagascar,2015,3,4,PF,1,0,0,1
 madagascar,2016,3,4,PF,1,0,0,1
 madagascar,2017,3,4,PF,1,0,0,1
+malawi,2005,4,4,PF,1,0,0,1
+malawi,2006,4,3,PF,1,0,0,1
+malawi,2007,4,4,PF,1,0,0,1
 malawi,2008,4,4,PF,1,0,0,1
 malawi,2009,3,4,PF,1,0,0,1
 malawi,2010,3,4,PF,1,0,0,1
@@ -1018,6 +1321,9 @@ malawi,2014,3,4,PF,1,0,0,1
 malawi,2015,3,3,PF,1,0,0,1
 malawi,2016,3,3,PF,1,0,0,1
 malawi,2017,3,3,PF,1,0,0,1
+malaysia,2005,4,4,PF,1,0,0,1
+malaysia,2006,4,4,PF,1,0,0,1
+malaysia,2007,4,4,PF,1,0,0,1
 malaysia,2008,4,4,PF,1,0,0,1
 malaysia,2009,4,4,PF,1,0,0,1
 malaysia,2010,4,4,PF,1,0,0,1
@@ -1028,6 +1334,9 @@ malaysia,2014,4,4,PF,1,0,0,1
 malaysia,2015,4,4,PF,1,0,0,1
 malaysia,2016,4,4,PF,1,0,0,1
 malaysia,2017,4,4,PF,1,0,0,1
+maldives,2005,6,5,NF,0,0,1,0
+maldives,2006,6,5,NF,0,0,1,0
+maldives,2007,6,5,NF,0,0,1,0
 maldives,2008,4,4,PF,1,0,0,1
 maldives,2009,3,4,PF,1,0,0,1
 maldives,2010,3,4,PF,1,0,0,1
@@ -1038,6 +1347,9 @@ maldives,2014,4,4,PF,1,0,0,1
 maldives,2015,4,5,PF,1,0,0,1
 maldives,2016,5,5,PF,1,0,0,1
 maldives,2017,5,5,PF,1,0,0,1
+mali,2005,2,2,F,2,1,0,0
+mali,2006,2,2,F,2,1,0,0
+mali,2007,2,3,F,2,1,0,0
 mali,2008,2,3,F,2,1,0,0
 mali,2009,2,3,F,2,1,0,0
 mali,2010,2,3,F,2,1,0,0
@@ -1048,6 +1360,9 @@ mali,2014,5,4,PF,1,0,0,1
 mali,2015,5,4,PF,1,0,0,1
 mali,2016,5,4,PF,1,0,0,1
 mali,2017,5,4,PF,1,0,0,1
+malta,2005,1,1,F,2,1,0,0
+malta,2006,1,1,F,2,1,0,0
+malta,2007,1,1,F,2,1,0,0
 malta,2008,1,1,F,2,1,0,0
 malta,2009,1,1,F,2,1,0,0
 malta,2010,1,1,F,2,1,0,0
@@ -1058,6 +1373,9 @@ malta,2014,1,1,F,2,1,0,0
 malta,2015,1,1,F,2,1,0,0
 malta,2016,1,1,F,2,1,0,0
 malta,2017,1,1,F,2,1,0,0
+marshall islands,2005,1,1,F,2,1,0,0
+marshall islands,2006,1,1,F,2,1,0,0
+marshall islands,2007,1,1,F,2,1,0,0
 marshall islands,2008,1,1,F,2,1,0,0
 marshall islands,2009,1,1,F,2,1,0,0
 marshall islands,2010,1,1,F,2,1,0,0
@@ -1068,6 +1386,9 @@ marshall islands,2014,1,1,F,2,1,0,0
 marshall islands,2015,1,1,F,2,1,0,0
 marshall islands,2016,1,1,F,2,1,0,0
 marshall islands,2017,1,1,F,2,1,0,0
+mauritania,2005,6,4,PF,1,0,0,1
+mauritania,2006,5,4,PF,1,0,0,1
+mauritania,2007,4,4,PF,1,0,0,1
 mauritania,2008,6,5,NF,0,0,1,0
 mauritania,2009,6,5,NF,0,0,1,0
 mauritania,2010,6,5,NF,0,0,1,0
@@ -1078,6 +1399,9 @@ mauritania,2014,6,5,NF,0,0,1,0
 mauritania,2015,6,5,NF,0,0,1,0
 mauritania,2016,6,5,NF,0,0,1,0
 mauritania,2017,6,5,NF,0,0,1,0
+mauritius,2005,1,1,F,2,1,0,0
+mauritius,2006,1,2,F,2,1,0,0
+mauritius,2007,1,2,F,2,1,0,0
 mauritius,2008,1,2,F,2,1,0,0
 mauritius,2009,1,2,F,2,1,0,0
 mauritius,2010,1,2,F,2,1,0,0
@@ -1088,6 +1412,9 @@ mauritius,2014,1,2,F,2,1,0,0
 mauritius,2015,1,2,F,2,1,0,0
 mauritius,2016,1,2,F,2,1,0,0
 mauritius,2017,1,2,F,2,1,0,0
+mexico,2005,2,2,F,2,1,0,0
+mexico,2006,2,3,F,2,1,0,0
+mexico,2007,2,3,F,2,1,0,0
 mexico,2008,2,3,F,2,1,0,0
 mexico,2009,2,3,F,2,1,0,0
 mexico,2010,3,3,PF,1,0,0,1
@@ -1098,6 +1425,9 @@ mexico,2014,3,3,PF,1,0,0,1
 mexico,2015,3,3,PF,1,0,0,1
 mexico,2016,3,3,PF,1,0,0,1
 mexico,2017,3,3,PF,1,0,0,1
+micronesia,2005,1,1,F,2,1,0,0
+micronesia,2006,1,1,F,2,1,0,0
+micronesia,2007,1,1,F,2,1,0,0
 micronesia,2008,1,1,F,2,1,0,0
 micronesia,2009,1,1,F,2,1,0,0
 micronesia,2010,1,1,F,2,1,0,0
@@ -1108,6 +1438,9 @@ micronesia,2014,1,1,F,2,1,0,0
 micronesia,2015,1,1,F,2,1,0,0
 micronesia,2016,1,1,F,2,1,0,0
 micronesia,2017,1,1,F,2,1,0,0
+moldova,2005,3,4,PF,1,0,0,1
+moldova,2006,3,4,PF,1,0,0,1
+moldova,2007,3,4,PF,1,0,0,1
 moldova,2008,4,4,PF,1,0,0,1
 moldova,2009,3,4,PF,1,0,0,1
 moldova,2010,3,3,PF,1,0,0,1
@@ -1118,6 +1451,9 @@ moldova,2014,3,3,PF,1,0,0,1
 moldova,2015,3,3,PF,1,0,0,1
 moldova,2016,3,3,PF,1,0,0,1
 moldova,2017,3,3,PF,1,0,0,1
+monaco,2005,2,1,F,2,1,0,0
+monaco,2006,2,1,F,2,1,0,0
+monaco,2007,2,1,F,2,1,0,0
 monaco,2008,2,1,F,2,1,0,0
 monaco,2009,2,1,F,2,1,0,0
 monaco,2010,2,1,F,2,1,0,0
@@ -1128,6 +1464,9 @@ monaco,2014,2,1,F,2,1,0,0
 monaco,2015,2,1,F,2,1,0,0
 monaco,2016,3,1,F,2,1,0,0
 monaco,2017,3,1,F,2,1,0,0
+mongolia,2005,2,2,F,2,1,0,0
+mongolia,2006,2,2,F,2,1,0,0
+mongolia,2007,2,2,F,2,1,0,0
 mongolia,2008,2,2,F,2,1,0,0
 mongolia,2009,2,2,F,2,1,0,0
 mongolia,2010,2,2,F,2,1,0,0
@@ -1138,6 +1477,8 @@ mongolia,2014,1,2,F,2,1,0,0
 mongolia,2015,1,2,F,2,1,0,0
 mongolia,2016,1,2,F,2,1,0,0
 mongolia,2017,1,2,F,2,1,0,0
+montenegro,2006,3,3,PF,1,0,0,1
+montenegro,2007,3,3,PF,1,0,0,1
 montenegro,2008,3,3,PF,1,0,0,1
 montenegro,2009,3,2,F,2,1,0,0
 montenegro,2010,3,2,F,2,1,0,0
@@ -1148,6 +1489,9 @@ montenegro,2014,3,2,F,2,1,0,0
 montenegro,2015,3,3,PF,1,0,0,1
 montenegro,2016,3,3,PF,1,0,0,1
 montenegro,2017,3,3,PF,1,0,0,1
+morocco,2005,5,4,PF,1,0,0,1
+morocco,2006,5,4,PF,1,0,0,1
+morocco,2007,5,4,PF,1,0,0,1
 morocco,2008,5,4,PF,1,0,0,1
 morocco,2009,5,4,PF,1,0,0,1
 morocco,2010,5,4,PF,1,0,0,1
@@ -1158,6 +1502,9 @@ morocco,2014,5,4,PF,1,0,0,1
 morocco,2015,5,4,PF,1,0,0,1
 morocco,2016,5,4,PF,1,0,0,1
 morocco,2017,5,5,PF,1,0,0,1
+mozambique,2005,3,4,PF,1,0,0,1
+mozambique,2006,3,4,PF,1,0,0,1
+mozambique,2007,3,3,PF,1,0,0,1
 mozambique,2008,3,3,PF,1,0,0,1
 mozambique,2009,4,3,PF,1,0,0,1
 mozambique,2010,4,3,PF,1,0,0,1
@@ -1168,6 +1515,9 @@ mozambique,2014,4,3,PF,1,0,0,1
 mozambique,2015,4,4,PF,1,0,0,1
 mozambique,2016,4,4,PF,1,0,0,1
 mozambique,2017,4,4,PF,1,0,0,1
+myanmar,2005,7,7,NF,0,0,1,0
+myanmar,2006,7,7,NF,0,0,1,0
+myanmar,2007,7,7,NF,0,0,1,0
 myanmar,2008,7,7,NF,0,0,1,0
 myanmar,2009,7,7,NF,0,0,1,0
 myanmar,2010,7,7,NF,0,0,1,0
@@ -1178,6 +1528,9 @@ myanmar,2014,6,6,NF,0,0,1,0
 myanmar,2015,6,5,NF,0,0,1,0
 myanmar,2016,5,5,PF,1,0,0,1
 myanmar,2017,5,5,PF,1,0,0,1
+namibia,2005,2,2,F,2,1,0,0
+namibia,2006,2,2,F,2,1,0,0
+namibia,2007,2,2,F,2,1,0,0
 namibia,2008,2,2,F,2,1,0,0
 namibia,2009,2,2,F,2,1,0,0
 namibia,2010,2,2,F,2,1,0,0
@@ -1188,6 +1541,9 @@ namibia,2014,2,2,F,2,1,0,0
 namibia,2015,2,2,F,2,1,0,0
 namibia,2016,2,2,F,2,1,0,0
 namibia,2017,2,2,F,2,1,0,0
+nauru,2005,1,1,F,2,1,0,0
+nauru,2006,1,1,F,2,1,0,0
+nauru,2007,1,1,F,2,1,0,0
 nauru,2008,1,1,F,2,1,0,0
 nauru,2009,1,1,F,2,1,0,0
 nauru,2010,1,1,F,2,1,0,0
@@ -1198,6 +1554,9 @@ nauru,2014,1,2,F,2,1,0,0
 nauru,2015,2,2,F,2,1,0,0
 nauru,2016,2,2,F,2,1,0,0
 nauru,2017,2,2,F,2,1,0,0
+nepal,2005,6,5,NF,0,0,1,0
+nepal,2006,5,4,PF,1,0,0,1
+nepal,2007,5,4,PF,1,0,0,1
 nepal,2008,4,4,PF,1,0,0,1
 nepal,2009,4,4,PF,1,0,0,1
 nepal,2010,4,4,PF,1,0,0,1
@@ -1208,6 +1567,9 @@ nepal,2014,3,4,PF,1,0,0,1
 nepal,2015,3,4,PF,1,0,0,1
 nepal,2016,3,4,PF,1,0,0,1
 nepal,2017,3,4,PF,1,0,0,1
+netherlands,2005,1,1,F,2,1,0,0
+netherlands,2006,1,1,F,2,1,0,0
+netherlands,2007,1,1,F,2,1,0,0
 netherlands,2008,1,1,F,2,1,0,0
 netherlands,2009,1,1,F,2,1,0,0
 netherlands,2010,1,1,F,2,1,0,0
@@ -1218,6 +1580,9 @@ netherlands,2014,1,1,F,2,1,0,0
 netherlands,2015,1,1,F,2,1,0,0
 netherlands,2016,1,1,F,2,1,0,0
 netherlands,2017,1,1,F,2,1,0,0
+new zealand,2005,1,1,F,2,1,0,0
+new zealand,2006,1,1,F,2,1,0,0
+new zealand,2007,1,1,F,2,1,0,0
 new zealand,2008,1,1,F,2,1,0,0
 new zealand,2009,1,1,F,2,1,0,0
 new zealand,2010,1,1,F,2,1,0,0
@@ -1228,6 +1593,9 @@ new zealand,2014,1,1,F,2,1,0,0
 new zealand,2015,1,1,F,2,1,0,0
 new zealand,2016,1,1,F,2,1,0,0
 new zealand,2017,1,1,F,2,1,0,0
+nicaragua,2005,3,3,PF,1,0,0,1
+nicaragua,2006,3,3,PF,1,0,0,1
+nicaragua,2007,3,3,PF,1,0,0,1
 nicaragua,2008,4,3,PF,1,0,0,1
 nicaragua,2009,4,4,PF,1,0,0,1
 nicaragua,2010,4,4,PF,1,0,0,1
@@ -1238,6 +1606,9 @@ nicaragua,2014,4,3,PF,1,0,0,1
 nicaragua,2015,4,3,PF,1,0,0,1
 nicaragua,2016,5,4,PF,1,0,0,1
 nicaragua,2017,5,4,PF,1,0,0,1
+niger,2005,3,3,PF,1,0,0,1
+niger,2006,3,3,PF,1,0,0,1
+niger,2007,3,4,PF,1,0,0,1
 niger,2008,3,4,PF,1,0,0,1
 niger,2009,5,4,PF,1,0,0,1
 niger,2010,5,4,PF,1,0,0,1
@@ -1248,6 +1619,9 @@ niger,2014,3,4,PF,1,0,0,1
 niger,2015,3,4,PF,1,0,0,1
 niger,2016,4,4,PF,1,0,0,1
 niger,2017,4,4,PF,1,0,0,1
+nigeria,2005,4,4,PF,1,0,0,1
+nigeria,2006,4,4,PF,1,0,0,1
+nigeria,2007,4,4,PF,1,0,0,1
 nigeria,2008,5,4,PF,1,0,0,1
 nigeria,2009,5,4,PF,1,0,0,1
 nigeria,2010,4,4,PF,1,0,0,1
@@ -1258,6 +1632,9 @@ nigeria,2014,4,5,PF,1,0,0,1
 nigeria,2015,4,5,PF,1,0,0,1
 nigeria,2016,3,5,PF,1,0,0,1
 nigeria,2017,3,5,PF,1,0,0,1
+north korea,2005,7,7,NF,0,0,1,0
+north korea,2006,7,7,NF,0,0,1,0
+north korea,2007,7,7,NF,0,0,1,0
 north korea,2008,7,7,NF,0,0,1,0
 north korea,2009,7,7,NF,0,0,1,0
 north korea,2010,7,7,NF,0,0,1,0
@@ -1268,6 +1645,9 @@ north korea,2014,7,7,NF,0,0,1,0
 north korea,2015,7,7,NF,0,0,1,0
 north korea,2016,7,7,NF,0,0,1,0
 north korea,2017,7,7,NF,0,0,1,0
+norway,2005,1,1,F,2,1,0,0
+norway,2006,1,1,F,2,1,0,0
+norway,2007,1,1,F,2,1,0,0
 norway,2008,1,1,F,2,1,0,0
 norway,2009,1,1,F,2,1,0,0
 norway,2010,1,1,F,2,1,0,0
@@ -1278,6 +1658,9 @@ norway,2014,1,1,F,2,1,0,0
 norway,2015,1,1,F,2,1,0,0
 norway,2016,1,1,F,2,1,0,0
 norway,2017,1,1,F,2,1,0,0
+oman,2005,6,5,NF,0,0,1,0
+oman,2006,6,5,NF,0,0,1,0
+oman,2007,6,5,NF,0,0,1,0
 oman,2008,6,5,NF,0,0,1,0
 oman,2009,6,5,NF,0,0,1,0
 oman,2010,6,5,NF,0,0,1,0
@@ -1288,6 +1671,9 @@ oman,2014,6,5,NF,0,0,1,0
 oman,2015,6,5,NF,0,0,1,0
 oman,2016,6,5,NF,0,0,1,0
 oman,2017,6,5,NF,0,0,1,0
+pakistan,2005,6,5,NF,0,0,1,0
+pakistan,2006,6,5,NF,0,0,1,0
+pakistan,2007,6,5,NF,0,0,1,0
 pakistan,2008,4,5,PF,1,0,0,1
 pakistan,2009,4,5,PF,1,0,0,1
 pakistan,2010,4,5,PF,1,0,0,1
@@ -1298,6 +1684,9 @@ pakistan,2014,4,5,PF,1,0,0,1
 pakistan,2015,4,5,PF,1,0,0,1
 pakistan,2016,4,5,PF,1,0,0,1
 pakistan,2017,4,5,PF,1,0,0,1
+palau,2005,1,1,F,2,1,0,0
+palau,2006,1,1,F,2,1,0,0
+palau,2007,1,1,F,2,1,0,0
 palau,2008,1,1,F,2,1,0,0
 palau,2009,1,1,F,2,1,0,0
 palau,2010,1,1,F,2,1,0,0
@@ -1308,6 +1697,9 @@ palau,2014,1,1,F,2,1,0,0
 palau,2015,1,1,F,2,1,0,0
 palau,2016,1,1,F,2,1,0,0
 palau,2017,1,1,F,2,1,0,0
+panama,2005,1,2,F,2,1,0,0
+panama,2006,1,2,F,2,1,0,0
+panama,2007,1,2,F,2,1,0,0
 panama,2008,1,2,F,2,1,0,0
 panama,2009,1,2,F,2,1,0,0
 panama,2010,1,2,F,2,1,0,0
@@ -1318,6 +1710,9 @@ panama,2014,2,2,F,2,1,0,0
 panama,2015,2,2,F,2,1,0,0
 panama,2016,2,2,F,2,1,0,0
 panama,2017,2,2,F,2,1,0,0
+papua new guinea,2005,3,3,PF,1,0,0,1
+papua new guinea,2006,3,3,PF,1,0,0,1
+papua new guinea,2007,3,3,PF,1,0,0,1
 papua new guinea,2008,4,3,PF,1,0,0,1
 papua new guinea,2009,4,3,PF,1,0,0,1
 papua new guinea,2010,4,3,PF,1,0,0,1
@@ -1328,6 +1723,9 @@ papua new guinea,2014,4,3,PF,1,0,0,1
 papua new guinea,2015,4,3,PF,1,0,0,1
 papua new guinea,2016,3,3,PF,1,0,0,1
 papua new guinea,2017,3,3,PF,1,0,0,1
+paraguay,2005,3,3,PF,1,0,0,1
+paraguay,2006,3,3,PF,1,0,0,1
+paraguay,2007,3,3,PF,1,0,0,1
 paraguay,2008,3,3,PF,1,0,0,1
 paraguay,2009,3,3,PF,1,0,0,1
 paraguay,2010,3,3,PF,1,0,0,1
@@ -1338,6 +1736,9 @@ paraguay,2014,3,3,PF,1,0,0,1
 paraguay,2015,3,3,PF,1,0,0,1
 paraguay,2016,3,3,PF,1,0,0,1
 paraguay,2017,3,3,PF,1,0,0,1
+peru,2005,2,3,F,2,1,0,0
+peru,2006,2,3,F,2,1,0,0
+peru,2007,2,3,F,2,1,0,0
 peru,2008,2,3,F,2,1,0,0
 peru,2009,2,3,F,2,1,0,0
 peru,2010,2,3,F,2,1,0,0
@@ -1348,6 +1749,9 @@ peru,2014,2,3,F,2,1,0,0
 peru,2015,2,3,F,2,1,0,0
 peru,2016,2,3,F,2,1,0,0
 peru,2017,2,3,F,2,1,0,0
+philippines,2005,3,3,PF,1,0,0,1
+philippines,2006,3,3,PF,1,0,0,1
+philippines,2007,4,3,PF,1,0,0,1
 philippines,2008,4,3,PF,1,0,0,1
 philippines,2009,4,3,PF,1,0,0,1
 philippines,2010,3,3,PF,1,0,0,1
@@ -1358,6 +1762,9 @@ philippines,2014,3,3,PF,1,0,0,1
 philippines,2015,3,3,PF,1,0,0,1
 philippines,2016,3,3,PF,1,0,0,1
 philippines,2017,3,3,PF,1,0,0,1
+poland,2005,1,1,F,2,1,0,0
+poland,2006,1,1,F,2,1,0,0
+poland,2007,1,1,F,2,1,0,0
 poland,2008,1,1,F,2,1,0,0
 poland,2009,1,1,F,2,1,0,0
 poland,2010,1,1,F,2,1,0,0
@@ -1368,6 +1775,9 @@ poland,2014,1,1,F,2,1,0,0
 poland,2015,1,1,F,2,1,0,0
 poland,2016,1,2,F,2,1,0,0
 poland,2017,1,2,F,2,1,0,0
+portugal,2005,1,1,F,2,1,0,0
+portugal,2006,1,1,F,2,1,0,0
+portugal,2007,1,1,F,2,1,0,0
 portugal,2008,1,1,F,2,1,0,0
 portugal,2009,1,1,F,2,1,0,0
 portugal,2010,1,1,F,2,1,0,0
@@ -1378,6 +1788,9 @@ portugal,2014,1,1,F,2,1,0,0
 portugal,2015,1,1,F,2,1,0,0
 portugal,2016,1,1,F,2,1,0,0
 portugal,2017,1,1,F,2,1,0,0
+qatar,2005,6,5,NF,0,0,1,0
+qatar,2006,6,5,NF,0,0,1,0
+qatar,2007,6,5,NF,0,0,1,0
 qatar,2008,6,5,NF,0,0,1,0
 qatar,2009,6,5,NF,0,0,1,0
 qatar,2010,6,5,NF,0,0,1,0
@@ -1388,6 +1801,9 @@ qatar,2014,6,5,NF,0,0,1,0
 qatar,2015,6,5,NF,0,0,1,0
 qatar,2016,6,5,NF,0,0,1,0
 qatar,2017,6,5,NF,0,0,1,0
+romania,2005,2,2,F,2,1,0,0
+romania,2006,2,2,F,2,1,0,0
+romania,2007,2,2,F,2,1,0,0
 romania,2008,2,2,F,2,1,0,0
 romania,2009,2,2,F,2,1,0,0
 romania,2010,2,2,F,2,1,0,0
@@ -1398,6 +1814,9 @@ romania,2014,2,2,F,2,1,0,0
 romania,2015,2,2,F,2,1,0,0
 romania,2016,2,2,F,2,1,0,0
 romania,2017,2,2,F,2,1,0,0
+russia,2005,6,5,NF,0,0,1,0
+russia,2006,6,5,NF,0,0,1,0
+russia,2007,6,5,NF,0,0,1,0
 russia,2008,6,5,NF,0,0,1,0
 russia,2009,6,5,NF,0,0,1,0
 russia,2010,6,5,NF,0,0,1,0
@@ -1408,6 +1827,9 @@ russia,2014,6,6,NF,0,0,1,0
 russia,2015,6,6,NF,0,0,1,0
 russia,2016,7,6,NF,0,0,1,0
 russia,2017,7,6,NF,0,0,1,0
+rwanda,2005,6,5,NF,0,0,1,0
+rwanda,2006,6,5,NF,0,0,1,0
+rwanda,2007,6,5,NF,0,0,1,0
 rwanda,2008,6,5,NF,0,0,1,0
 rwanda,2009,6,5,NF,0,0,1,0
 rwanda,2010,6,5,NF,0,0,1,0
@@ -1418,6 +1840,9 @@ rwanda,2014,6,6,NF,0,0,1,0
 rwanda,2015,6,6,NF,0,0,1,0
 rwanda,2016,6,6,NF,0,0,1,0
 rwanda,2017,6,6,NF,0,0,1,0
+samoa,2005,2,2,F,2,1,0,0
+samoa,2006,2,2,F,2,1,0,0
+samoa,2007,2,2,F,2,1,0,0
 samoa,2008,2,2,F,2,1,0,0
 samoa,2009,2,2,F,2,1,0,0
 samoa,2010,2,2,F,2,1,0,0
@@ -1428,6 +1853,9 @@ samoa,2014,2,2,F,2,1,0,0
 samoa,2015,2,2,F,2,1,0,0
 samoa,2016,2,2,F,2,1,0,0
 samoa,2017,2,2,F,2,1,0,0
+san marino,2005,1,1,F,2,1,0,0
+san marino,2006,1,1,F,2,1,0,0
+san marino,2007,1,1,F,2,1,0,0
 san marino,2008,1,1,F,2,1,0,0
 san marino,2009,1,1,F,2,1,0,0
 san marino,2010,1,1,F,2,1,0,0
@@ -1438,6 +1866,9 @@ san marino,2014,1,1,F,2,1,0,0
 san marino,2015,1,1,F,2,1,0,0
 san marino,2016,1,1,F,2,1,0,0
 san marino,2017,1,1,F,2,1,0,0
+sao tome and principe,2005,2,2,F,2,1,0,0
+sao tome and principe,2006,2,2,F,2,1,0,0
+sao tome and principe,2007,2,2,F,2,1,0,0
 sao tome and principe,2008,2,2,F,2,1,0,0
 sao tome and principe,2009,2,2,F,2,1,0,0
 sao tome and principe,2010,2,2,F,2,1,0,0
@@ -1448,6 +1879,9 @@ sao tome and principe,2014,2,2,F,2,1,0,0
 sao tome and principe,2015,2,2,F,2,1,0,0
 sao tome and principe,2016,2,2,F,2,1,0,0
 sao tome and principe,2017,2,2,F,2,1,0,0
+saudi arabia,2005,7,6,NF,0,0,1,0
+saudi arabia,2006,7,6,NF,0,0,1,0
+saudi arabia,2007,7,6,NF,0,0,1,0
 saudi arabia,2008,7,6,NF,0,0,1,0
 saudi arabia,2009,7,6,NF,0,0,1,0
 saudi arabia,2010,7,6,NF,0,0,1,0
@@ -1458,6 +1892,9 @@ saudi arabia,2014,7,7,NF,0,0,1,0
 saudi arabia,2015,7,7,NF,0,0,1,0
 saudi arabia,2016,7,7,NF,0,0,1,0
 saudi arabia,2017,7,7,NF,0,0,1,0
+senegal,2005,2,3,F,2,1,0,0
+senegal,2006,2,3,F,2,1,0,0
+senegal,2007,2,3,F,2,1,0,0
 senegal,2008,3,3,PF,1,0,0,1
 senegal,2009,3,3,PF,1,0,0,1
 senegal,2010,3,3,PF,1,0,0,1
@@ -1468,6 +1905,8 @@ senegal,2014,2,2,F,2,1,0,0
 senegal,2015,2,2,F,2,1,0,0
 senegal,2016,2,2,F,2,1,0,0
 senegal,2017,2,2,F,2,1,0,0
+serbia,2006,3,2,F,2,1,0,0
+serbia,2007,3,2,F,2,1,0,0
 serbia,2008,3,2,F,2,1,0,0
 serbia,2009,2,2,F,2,1,0,0
 serbia,2010,2,2,F,2,1,0,0
@@ -1478,6 +1917,9 @@ serbia,2014,2,2,F,2,1,0,0
 serbia,2015,2,2,F,2,1,0,0
 serbia,2016,3,2,F,2,1,0,0
 serbia,2017,3,2,F,2,1,0,0
+seychelles,2005,3,3,PF,1,0,0,1
+seychelles,2006,3,3,PF,1,0,0,1
+seychelles,2007,3,3,PF,1,0,0,1
 seychelles,2008,3,3,PF,1,0,0,1
 seychelles,2009,3,3,PF,1,0,0,1
 seychelles,2010,3,3,PF,1,0,0,1
@@ -1488,6 +1930,9 @@ seychelles,2014,3,3,PF,1,0,0,1
 seychelles,2015,3,3,PF,1,0,0,1
 seychelles,2016,3,3,PF,1,0,0,1
 seychelles,2017,3,3,PF,1,0,0,1
+sierra leone,2005,4,3,PF,1,0,0,1
+sierra leone,2006,4,3,PF,1,0,0,1
+sierra leone,2007,3,3,PF,1,0,0,1
 sierra leone,2008,3,3,PF,1,0,0,1
 sierra leone,2009,3,3,PF,1,0,0,1
 sierra leone,2010,3,3,PF,1,0,0,1
@@ -1498,6 +1943,9 @@ sierra leone,2014,3,3,PF,1,0,0,1
 sierra leone,2015,3,3,PF,1,0,0,1
 sierra leone,2016,3,3,PF,1,0,0,1
 sierra leone,2017,3,3,PF,1,0,0,1
+singapore,2005,5,4,PF,1,0,0,1
+singapore,2006,5,4,PF,1,0,0,1
+singapore,2007,5,4,PF,1,0,0,1
 singapore,2008,5,4,PF,1,0,0,1
 singapore,2009,5,4,PF,1,0,0,1
 singapore,2010,5,4,PF,1,0,0,1
@@ -1508,6 +1956,9 @@ singapore,2014,4,4,PF,1,0,0,1
 singapore,2015,4,4,PF,1,0,0,1
 singapore,2016,4,4,PF,1,0,0,1
 singapore,2017,4,4,PF,1,0,0,1
+slovakia,2005,1,1,F,2,1,0,0
+slovakia,2006,1,1,F,2,1,0,0
+slovakia,2007,1,1,F,2,1,0,0
 slovakia,2008,1,1,F,2,1,0,0
 slovakia,2009,1,1,F,2,1,0,0
 slovakia,2010,1,1,F,2,1,0,0
@@ -1518,6 +1969,9 @@ slovakia,2014,1,1,F,2,1,0,0
 slovakia,2015,1,1,F,2,1,0,0
 slovakia,2016,1,1,F,2,1,0,0
 slovakia,2017,1,1,F,2,1,0,0
+slovenia,2005,1,1,F,2,1,0,0
+slovenia,2006,1,1,F,2,1,0,0
+slovenia,2007,1,1,F,2,1,0,0
 slovenia,2008,1,1,F,2,1,0,0
 slovenia,2009,1,1,F,2,1,0,0
 slovenia,2010,1,1,F,2,1,0,0
@@ -1528,6 +1982,9 @@ slovenia,2014,1,1,F,2,1,0,0
 slovenia,2015,1,1,F,2,1,0,0
 slovenia,2016,1,1,F,2,1,0,0
 slovenia,2017,1,1,F,2,1,0,0
+solomon islands,2005,3,3,PF,1,0,0,1
+solomon islands,2006,4,3,PF,1,0,0,1
+solomon islands,2007,4,3,PF,1,0,0,1
 solomon islands,2008,4,3,PF,1,0,0,1
 solomon islands,2009,4,3,PF,1,0,0,1
 solomon islands,2010,4,3,PF,1,0,0,1
@@ -1538,6 +1995,9 @@ solomon islands,2014,3,3,PF,1,0,0,1
 solomon islands,2015,3,3,PF,1,0,0,1
 solomon islands,2016,3,2,F,2,1,0,0
 solomon islands,2017,3,2,F,2,1,0,0
+somalia,2005,6,7,NF,0,0,1,0
+somalia,2006,7,7,NF,0,0,1,0
+somalia,2007,7,7,NF,0,0,1,0
 somalia,2008,7,7,NF,0,0,1,0
 somalia,2009,7,7,NF,0,0,1,0
 somalia,2010,7,7,NF,0,0,1,0
@@ -1548,6 +2008,9 @@ somalia,2014,7,7,NF,0,0,1,0
 somalia,2015,7,7,NF,0,0,1,0
 somalia,2016,7,7,NF,0,0,1,0
 somalia,2017,7,7,NF,0,0,1,0
+south africa,2005,1,2,F,2,1,0,0
+south africa,2006,2,2,F,2,1,0,0
+south africa,2007,2,2,F,2,1,0,0
 south africa,2008,2,2,F,2,1,0,0
 south africa,2009,2,2,F,2,1,0,0
 south africa,2010,2,2,F,2,1,0,0
@@ -1558,6 +2021,9 @@ south africa,2014,2,2,F,2,1,0,0
 south africa,2015,2,2,F,2,1,0,0
 south africa,2016,2,2,F,2,1,0,0
 south africa,2017,2,2,F,2,1,0,0
+south korea,2005,1,2,F,2,1,0,0
+south korea,2006,1,2,F,2,1,0,0
+south korea,2007,1,2,F,2,1,0,0
 south korea,2008,1,2,F,2,1,0,0
 south korea,2009,1,2,F,2,1,0,0
 south korea,2010,1,2,F,2,1,0,0
@@ -1575,6 +2041,9 @@ south sudan,2014,7,6,NF,0,0,1,0
 south sudan,2015,7,6,NF,0,0,1,0
 south sudan,2016,7,7,NF,0,0,1,0
 south sudan,2017,7,7,NF,0,0,1,0
+spain,2005,1,1,F,2,1,0,0
+spain,2006,1,1,F,2,1,0,0
+spain,2007,1,1,F,2,1,0,0
 spain,2008,1,1,F,2,1,0,0
 spain,2009,1,1,F,2,1,0,0
 spain,2010,1,1,F,2,1,0,0
@@ -1585,6 +2054,9 @@ spain,2014,1,1,F,2,1,0,0
 spain,2015,1,1,F,2,1,0,0
 spain,2016,1,1,F,2,1,0,0
 spain,2017,1,1,F,2,1,0,0
+sri lanka,2005,3,3,PF,1,0,0,1
+sri lanka,2006,4,4,PF,1,0,0,1
+sri lanka,2007,4,4,PF,1,0,0,1
 sri lanka,2008,4,4,PF,1,0,0,1
 sri lanka,2009,4,4,PF,1,0,0,1
 sri lanka,2010,5,4,PF,1,0,0,1
@@ -1595,6 +2067,9 @@ sri lanka,2014,5,5,PF,1,0,0,1
 sri lanka,2015,4,4,PF,1,0,0,1
 sri lanka,2016,3,4,PF,1,0,0,1
 sri lanka,2017,3,4,PF,1,0,0,1
+st. kitts and nevis,2005,1,1,F,2,1,0,0
+st. kitts and nevis,2006,1,1,F,2,1,0,0
+st. kitts and nevis,2007,1,1,F,2,1,0,0
 st. kitts and nevis,2008,1,1,F,2,1,0,0
 st. kitts and nevis,2009,1,1,F,2,1,0,0
 st. kitts and nevis,2010,1,1,F,2,1,0,0
@@ -1605,6 +2080,9 @@ st. kitts and nevis,2014,1,1,F,2,1,0,0
 st. kitts and nevis,2015,2,1,F,2,1,0,0
 st. kitts and nevis,2016,1,1,F,2,1,0,0
 st. kitts and nevis,2017,1,1,F,2,1,0,0
+st. lucia,2005,1,1,F,2,1,0,0
+st. lucia,2006,1,1,F,2,1,0,0
+st. lucia,2007,1,1,F,2,1,0,0
 st. lucia,2008,1,1,F,2,1,0,0
 st. lucia,2009,1,1,F,2,1,0,0
 st. lucia,2010,1,1,F,2,1,0,0
@@ -1615,6 +2093,9 @@ st. lucia,2014,1,1,F,2,1,0,0
 st. lucia,2015,1,1,F,2,1,0,0
 st. lucia,2016,1,1,F,2,1,0,0
 st. lucia,2017,1,1,F,2,1,0,0
+st. vincent and the grenadines,2005,2,1,F,2,1,0,0
+st. vincent and the grenadines,2006,2,1,F,2,1,0,0
+st. vincent and the grenadines,2007,2,1,F,2,1,0,0
 st. vincent and the grenadines,2008,2,1,F,2,1,0,0
 st. vincent and the grenadines,2009,2,1,F,2,1,0,0
 st. vincent and the grenadines,2010,1,1,F,2,1,0,0
@@ -1625,6 +2106,9 @@ st. vincent and the grenadines,2014,1,1,F,2,1,0,0
 st. vincent and the grenadines,2015,1,1,F,2,1,0,0
 st. vincent and the grenadines,2016,1,1,F,2,1,0,0
 st. vincent and the grenadines,2017,1,1,F,2,1,0,0
+sudan,2005,7,7,NF,0,0,1,0
+sudan,2006,7,7,NF,0,0,1,0
+sudan,2007,7,7,NF,0,0,1,0
 sudan,2008,7,7,NF,0,0,1,0
 sudan,2009,7,7,NF,0,0,1,0
 sudan,2010,7,7,NF,0,0,1,0
@@ -1635,6 +2119,9 @@ sudan,2014,7,7,NF,0,0,1,0
 sudan,2015,7,7,NF,0,0,1,0
 sudan,2016,7,7,NF,0,0,1,0
 sudan,2017,7,7,NF,0,0,1,0
+suriname,2005,2,2,F,2,1,0,0
+suriname,2006,2,2,F,2,1,0,0
+suriname,2007,2,2,F,2,1,0,0
 suriname,2008,2,2,F,2,1,0,0
 suriname,2009,2,2,F,2,1,0,0
 suriname,2010,2,2,F,2,1,0,0
@@ -1645,6 +2132,9 @@ suriname,2014,2,2,F,2,1,0,0
 suriname,2015,2,3,F,2,1,0,0
 suriname,2016,2,3,F,2,1,0,0
 suriname,2017,2,2,F,2,1,0,0
+swaziland,2005,7,5,NF,0,0,1,0
+swaziland,2006,7,5,NF,0,0,1,0
+swaziland,2007,7,5,NF,0,0,1,0
 swaziland,2008,7,5,NF,0,0,1,0
 swaziland,2009,7,5,NF,0,0,1,0
 swaziland,2010,7,5,NF,0,0,1,0
@@ -1655,6 +2145,9 @@ swaziland,2014,7,5,NF,0,0,1,0
 swaziland,2015,7,5,NF,0,0,1,0
 swaziland,2016,7,5,NF,0,0,1,0
 swaziland,2017,7,6,NF,0,0,1,0
+sweden,2005,1,1,F,2,1,0,0
+sweden,2006,1,1,F,2,1,0,0
+sweden,2007,1,1,F,2,1,0,0
 sweden,2008,1,1,F,2,1,0,0
 sweden,2009,1,1,F,2,1,0,0
 sweden,2010,1,1,F,2,1,0,0
@@ -1665,6 +2158,9 @@ sweden,2014,1,1,F,2,1,0,0
 sweden,2015,1,1,F,2,1,0,0
 sweden,2016,1,1,F,2,1,0,0
 sweden,2017,1,1,F,2,1,0,0
+switzerland,2005,1,1,F,2,1,0,0
+switzerland,2006,1,1,F,2,1,0,0
+switzerland,2007,1,1,F,2,1,0,0
 switzerland,2008,1,1,F,2,1,0,0
 switzerland,2009,1,1,F,2,1,0,0
 switzerland,2010,1,1,F,2,1,0,0
@@ -1675,6 +2171,9 @@ switzerland,2014,1,1,F,2,1,0,0
 switzerland,2015,1,1,F,2,1,0,0
 switzerland,2016,1,1,F,2,1,0,0
 switzerland,2017,1,1,F,2,1,0,0
+syria,2005,7,7,NF,0,0,1,0
+syria,2006,7,6,NF,0,0,1,0
+syria,2007,7,6,NF,0,0,1,0
 syria,2008,7,6,NF,0,0,1,0
 syria,2009,7,6,NF,0,0,1,0
 syria,2010,7,6,NF,0,0,1,0
@@ -1685,6 +2184,9 @@ syria,2014,7,7,NF,0,0,1,0
 syria,2015,7,7,NF,0,0,1,0
 syria,2016,7,7,NF,0,0,1,0
 syria,2017,7,7,NF,0,0,1,0
+taiwan,2005,1,1,F,2,1,0,0
+taiwan,2006,2,1,F,2,1,0,0
+taiwan,2007,2,1,F,2,1,0,0
 taiwan,2008,2,1,F,2,1,0,0
 taiwan,2009,1,2,F,2,1,0,0
 taiwan,2010,1,2,F,2,1,0,0
@@ -1695,6 +2197,9 @@ taiwan,2014,1,2,F,2,1,0,0
 taiwan,2015,1,2,F,2,1,0,0
 taiwan,2016,1,1,F,2,1,0,0
 taiwan,2017,1,1,F,2,1,0,0
+tajikistan,2005,6,5,NF,0,0,1,0
+tajikistan,2006,6,5,NF,0,0,1,0
+tajikistan,2007,6,5,NF,0,0,1,0
 tajikistan,2008,6,5,NF,0,0,1,0
 tajikistan,2009,6,5,NF,0,0,1,0
 tajikistan,2010,6,5,NF,0,0,1,0
@@ -1705,6 +2210,9 @@ tajikistan,2014,6,6,NF,0,0,1,0
 tajikistan,2015,7,6,NF,0,0,1,0
 tajikistan,2016,7,6,NF,0,0,1,0
 tajikistan,2017,7,6,NF,0,0,1,0
+tanzania,2005,4,3,PF,1,0,0,1
+tanzania,2006,4,3,PF,1,0,0,1
+tanzania,2007,4,3,PF,1,0,0,1
 tanzania,2008,4,3,PF,1,0,0,1
 tanzania,2009,4,3,PF,1,0,0,1
 tanzania,2010,3,3,PF,1,0,0,1
@@ -1715,6 +2223,9 @@ tanzania,2014,3,3,PF,1,0,0,1
 tanzania,2015,3,4,PF,1,0,0,1
 tanzania,2016,3,4,PF,1,0,0,1
 tanzania,2017,4,4,PF,1,0,0,1
+thailand,2005,3,3,PF,1,0,0,1
+thailand,2006,7,4,NF,0,0,1,0
+thailand,2007,6,4,PF,1,0,0,1
 thailand,2008,5,4,PF,1,0,0,1
 thailand,2009,5,4,PF,1,0,0,1
 thailand,2010,5,4,PF,1,0,0,1
@@ -1725,6 +2236,9 @@ thailand,2014,6,5,NF,0,0,1,0
 thailand,2015,6,5,NF,0,0,1,0
 thailand,2016,6,5,NF,0,0,1,0
 thailand,2017,6,5,NF,0,0,1,0
+the gambia,2005,5,4,PF,1,0,0,1
+the gambia,2006,5,4,PF,1,0,0,1
+the gambia,2007,5,4,PF,1,0,0,1
 the gambia,2008,5,4,PF,1,0,0,1
 the gambia,2009,5,5,PF,1,0,0,1
 the gambia,2010,5,5,PF,1,0,0,1
@@ -1735,6 +2249,9 @@ the gambia,2014,6,6,NF,0,0,1,0
 the gambia,2015,7,6,NF,0,0,1,0
 the gambia,2016,6,6,NF,0,0,1,0
 the gambia,2017,4,5,PF,1,0,0,1
+timor-leste,2005,3,3,PF,1,0,0,1
+timor-leste,2006,3,4,PF,1,0,0,1
+timor-leste,2007,3,4,PF,1,0,0,1
 timor-leste,2008,3,4,PF,1,0,0,1
 timor-leste,2009,3,4,PF,1,0,0,1
 timor-leste,2010,3,4,PF,1,0,0,1
@@ -1745,6 +2262,9 @@ timor-leste,2014,3,3,PF,1,0,0,1
 timor-leste,2015,3,3,PF,1,0,0,1
 timor-leste,2016,3,3,PF,1,0,0,1
 timor-leste,2017,2,3,F,2,1,0,0
+togo,2005,6,5,NF,0,0,1,0
+togo,2006,6,5,NF,0,0,1,0
+togo,2007,5,5,PF,1,0,0,1
 togo,2008,5,5,PF,1,0,0,1
 togo,2009,5,4,PF,1,0,0,1
 togo,2010,5,4,PF,1,0,0,1
@@ -1755,6 +2275,9 @@ togo,2014,4,4,PF,1,0,0,1
 togo,2015,4,4,PF,1,0,0,1
 togo,2016,4,4,PF,1,0,0,1
 togo,2017,4,4,PF,1,0,0,1
+tonga,2005,5,3,PF,1,0,0,1
+tonga,2006,5,3,PF,1,0,0,1
+tonga,2007,5,3,PF,1,0,0,1
 tonga,2008,5,3,PF,1,0,0,1
 tonga,2009,5,3,PF,1,0,0,1
 tonga,2010,3,3,PF,1,0,0,1
@@ -1765,6 +2288,9 @@ tonga,2014,2,2,F,2,1,0,0
 tonga,2015,2,2,F,2,1,0,0
 tonga,2016,2,2,F,2,1,0,0
 tonga,2017,2,2,F,2,1,0,0
+trinidad and tobago,2005,3,2,F,2,1,0,0
+trinidad and tobago,2006,2,2,F,2,1,0,0
+trinidad and tobago,2007,2,2,F,2,1,0,0
 trinidad and tobago,2008,2,2,F,2,1,0,0
 trinidad and tobago,2009,2,2,F,2,1,0,0
 trinidad and tobago,2010,2,2,F,2,1,0,0
@@ -1775,6 +2301,9 @@ trinidad and tobago,2014,2,2,F,2,1,0,0
 trinidad and tobago,2015,2,2,F,2,1,0,0
 trinidad and tobago,2016,2,2,F,2,1,0,0
 trinidad and tobago,2017,2,2,F,2,1,0,0
+tunisia,2005,6,5,NF,0,0,1,0
+tunisia,2006,6,5,NF,0,0,1,0
+tunisia,2007,7,5,NF,0,0,1,0
 tunisia,2008,7,5,NF,0,0,1,0
 tunisia,2009,7,5,NF,0,0,1,0
 tunisia,2010,7,5,NF,0,0,1,0
@@ -1785,6 +2314,9 @@ tunisia,2014,1,3,F,2,1,0,0
 tunisia,2015,1,3,F,2,1,0,0
 tunisia,2016,1,3,F,2,1,0,0
 tunisia,2017,2,3,F,2,1,0,0
+turkey,2005,3,3,PF,1,0,0,1
+turkey,2006,3,3,PF,1,0,0,1
+turkey,2007,3,3,PF,1,0,0,1
 turkey,2008,3,3,PF,1,0,0,1
 turkey,2009,3,3,PF,1,0,0,1
 turkey,2010,3,3,PF,1,0,0,1
@@ -1795,6 +2327,9 @@ turkey,2014,3,4,PF,1,0,0,1
 turkey,2015,3,4,PF,1,0,0,1
 turkey,2016,4,5,PF,1,0,0,1
 turkey,2017,5,6,NF,0,0,1,0
+turkmenistan,2005,7,7,NF,0,0,1,0
+turkmenistan,2006,7,7,NF,0,0,1,0
+turkmenistan,2007,7,7,NF,0,0,1,0
 turkmenistan,2008,7,7,NF,0,0,1,0
 turkmenistan,2009,7,7,NF,0,0,1,0
 turkmenistan,2010,7,7,NF,0,0,1,0
@@ -1805,6 +2340,9 @@ turkmenistan,2014,7,7,NF,0,0,1,0
 turkmenistan,2015,7,7,NF,0,0,1,0
 turkmenistan,2016,7,7,NF,0,0,1,0
 turkmenistan,2017,7,7,NF,0,0,1,0
+tuvalu,2005,1,1,F,2,1,0,0
+tuvalu,2006,1,1,F,2,1,0,0
+tuvalu,2007,1,1,F,2,1,0,0
 tuvalu,2008,1,1,F,2,1,0,0
 tuvalu,2009,1,1,F,2,1,0,0
 tuvalu,2010,1,1,F,2,1,0,0
@@ -1815,6 +2353,9 @@ tuvalu,2014,1,1,F,2,1,0,0
 tuvalu,2015,1,1,F,2,1,0,0
 tuvalu,2016,1,1,F,2,1,0,0
 tuvalu,2017,1,1,F,2,1,0,0
+uganda,2005,5,4,PF,1,0,0,1
+uganda,2006,5,4,PF,1,0,0,1
+uganda,2007,5,4,PF,1,0,0,1
 uganda,2008,5,4,PF,1,0,0,1
 uganda,2009,5,4,PF,1,0,0,1
 uganda,2010,5,4,PF,1,0,0,1
@@ -1825,6 +2366,9 @@ uganda,2014,6,5,NF,0,0,1,0
 uganda,2015,6,5,NF,0,0,1,0
 uganda,2016,6,5,NF,0,0,1,0
 uganda,2017,6,4,PF,1,0,0,1
+ukraine,2005,3,2,F,2,1,0,0
+ukraine,2006,3,2,F,2,1,0,0
+ukraine,2007,3,2,F,2,1,0,0
 ukraine,2008,3,2,F,2,1,0,0
 ukraine,2009,3,2,F,2,1,0,0
 ukraine,2010,3,3,PF,1,0,0,1
@@ -1835,6 +2379,9 @@ ukraine,2014,3,3,PF,1,0,0,1
 ukraine,2015,3,3,PF,1,0,0,1
 ukraine,2016,3,3,PF,1,0,0,1
 ukraine,2017,3,3,PF,1,0,0,1
+united arab emirates,2005,6,6,NF,0,0,1,0
+united arab emirates,2006,6,5,NF,0,0,1,0
+united arab emirates,2007,6,5,NF,0,0,1,0
 united arab emirates,2008,6,5,NF,0,0,1,0
 united arab emirates,2009,6,5,NF,0,0,1,0
 united arab emirates,2010,6,5,NF,0,0,1,0
@@ -1845,6 +2392,9 @@ united arab emirates,2014,6,6,NF,0,0,1,0
 united arab emirates,2015,6,6,NF,0,0,1,0
 united arab emirates,2016,6,6,NF,0,0,1,0
 united arab emirates,2017,7,6,NF,0,0,1,0
+united kingdom,2005,1,1,F,2,1,0,0
+united kingdom,2006,1,1,F,2,1,0,0
+united kingdom,2007,1,1,F,2,1,0,0
 united kingdom,2008,1,1,F,2,1,0,0
 united kingdom,2009,1,1,F,2,1,0,0
 united kingdom,2010,1,1,F,2,1,0,0
@@ -1855,6 +2405,9 @@ united kingdom,2014,1,1,F,2,1,0,0
 united kingdom,2015,1,1,F,2,1,0,0
 united kingdom,2016,1,1,F,2,1,0,0
 united kingdom,2017,1,1,F,2,1,0,0
+united states,2005,1,1,F,2,1,0,0
+united states,2006,1,1,F,2,1,0,0
+united states,2007,1,1,F,2,1,0,0
 united states,2008,1,1,F,2,1,0,0
 united states,2009,1,1,F,2,1,0,0
 united states,2010,1,1,F,2,1,0,0
@@ -1865,6 +2418,9 @@ united states,2014,1,1,F,2,1,0,0
 united states,2015,1,1,F,2,1,0,0
 united states,2016,1,1,F,2,1,0,0
 united states,2017,2,1,F,2,1,0,0
+uruguay,2005,1,1,F,2,1,0,0
+uruguay,2006,1,1,F,2,1,0,0
+uruguay,2007,1,1,F,2,1,0,0
 uruguay,2008,1,1,F,2,1,0,0
 uruguay,2009,1,1,F,2,1,0,0
 uruguay,2010,1,1,F,2,1,0,0
@@ -1875,6 +2431,9 @@ uruguay,2014,1,1,F,2,1,0,0
 uruguay,2015,1,1,F,2,1,0,0
 uruguay,2016,1,1,F,2,1,0,0
 uruguay,2017,1,1,F,2,1,0,0
+uzbekistan,2005,7,7,NF,0,0,1,0
+uzbekistan,2006,7,7,NF,0,0,1,0
+uzbekistan,2007,7,7,NF,0,0,1,0
 uzbekistan,2008,7,7,NF,0,0,1,0
 uzbekistan,2009,7,7,NF,0,0,1,0
 uzbekistan,2010,7,7,NF,0,0,1,0
@@ -1885,6 +2444,9 @@ uzbekistan,2014,7,7,NF,0,0,1,0
 uzbekistan,2015,7,7,NF,0,0,1,0
 uzbekistan,2016,7,7,NF,0,0,1,0
 uzbekistan,2017,7,7,NF,0,0,1,0
+vanuatu,2005,2,2,F,2,1,0,0
+vanuatu,2006,2,2,F,2,1,0,0
+vanuatu,2007,2,2,F,2,1,0,0
 vanuatu,2008,2,2,F,2,1,0,0
 vanuatu,2009,2,2,F,2,1,0,0
 vanuatu,2010,2,2,F,2,1,0,0
@@ -1895,6 +2457,9 @@ vanuatu,2014,2,2,F,2,1,0,0
 vanuatu,2015,2,2,F,2,1,0,0
 vanuatu,2016,2,2,F,2,1,0,0
 vanuatu,2017,2,2,F,2,1,0,0
+venezuela,2005,4,4,PF,1,0,0,1
+venezuela,2006,4,4,PF,1,0,0,1
+venezuela,2007,4,4,PF,1,0,0,1
 venezuela,2008,4,4,PF,1,0,0,1
 venezuela,2009,5,4,PF,1,0,0,1
 venezuela,2010,5,5,PF,1,0,0,1
@@ -1905,6 +2470,9 @@ venezuela,2014,5,5,PF,1,0,0,1
 venezuela,2015,5,5,PF,1,0,0,1
 venezuela,2016,6,5,NF,0,0,1,0
 venezuela,2017,6,5,NF,0,0,1,0
+vietnam,2005,7,5,NF,0,0,1,0
+vietnam,2006,7,5,NF,0,0,1,0
+vietnam,2007,7,5,NF,0,0,1,0
 vietnam,2008,7,5,NF,0,0,1,0
 vietnam,2009,7,5,NF,0,0,1,0
 vietnam,2010,7,5,NF,0,0,1,0
@@ -1915,6 +2483,9 @@ vietnam,2014,7,5,NF,0,0,1,0
 vietnam,2015,7,5,NF,0,0,1,0
 vietnam,2016,7,5,NF,0,0,1,0
 vietnam,2017,7,5,NF,0,0,1,0
+yemen,2005,5,5,PF,1,0,0,1
+yemen,2006,5,5,PF,1,0,0,1
+yemen,2007,5,5,PF,1,0,0,1
 yemen,2008,5,5,PF,1,0,0,1
 yemen,2009,6,5,NF,0,0,1,0
 yemen,2010,6,5,NF,0,0,1,0
@@ -1925,6 +2496,10 @@ yemen,2014,6,6,NF,0,0,1,0
 yemen,2015,7,6,NF,0,0,1,0
 yemen,2016,7,6,NF,0,0,1,0
 yemen,2017,7,6,NF,0,0,1,0
+yugoslavia (serbia & montenegro),2005,3,2,F,2,1,0,0
+zambia,2005,4,4,PF,1,0,0,1
+zambia,2006,3,4,PF,1,0,0,1
+zambia,2007,3,4,PF,1,0,0,1
 zambia,2008,3,3,PF,1,0,0,1
 zambia,2009,3,4,PF,1,0,0,1
 zambia,2010,3,4,PF,1,0,0,1
@@ -1935,6 +2510,9 @@ zambia,2014,3,4,PF,1,0,0,1
 zambia,2015,3,4,PF,1,0,0,1
 zambia,2016,4,4,PF,1,0,0,1
 zambia,2017,4,4,PF,1,0,0,1
+zimbabwe,2005,7,6,NF,0,0,1,0
+zimbabwe,2006,7,6,NF,0,0,1,0
+zimbabwe,2007,7,6,NF,0,0,1,0
 zimbabwe,2008,7,6,NF,0,0,1,0
 zimbabwe,2009,6,6,NF,0,0,1,0
 zimbabwe,2010,6,6,NF,0,0,1,0
