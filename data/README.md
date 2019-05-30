@@ -19,7 +19,7 @@ The original folder contains all the data before processing.
     * run `VDEM_process.ipynb`
     * the output is `cleaned_VDEM.csv` saved to the directory
 
-4. Go to `./Intermediate_data_processing`
+4. Go to `./original_data/Intermediate_data_processing`
     * copy all the cleaned_* output files that have just been processed to this directory
     * run `data_merge.csv`
     * the output is `democracy.csv`
